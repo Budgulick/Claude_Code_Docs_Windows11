@@ -41,7 +41,7 @@ Obviously, you need Claude Code installed. The `/docs` command integrates with C
 Run this command in PowerShell:
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1 | iex
 ```
 
 ### Alternative: Download and Run
@@ -50,7 +50,7 @@ If the quick install doesn't work (corporate firewalls, etc.):
 
 ```powershell
 # Download the installer
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1" -OutFile install.ps1
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1" -OutFile install.ps1
 
 # Run it
 .\install.ps1

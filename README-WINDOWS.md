@@ -8,7 +8,7 @@ Welcome Windows users! This guide will help you install Claude Code Documentatio
 
 1. Download the installer:
    ```powershell
-   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.bat" -OutFile install.bat
+   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.bat" -OutFile install.bat
    ```
 
 2. Double-click `install.bat` to run
@@ -56,7 +56,7 @@ If you don't have Git installed:
 
 Download and run:
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.bat" -OutFile install.bat
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.bat" -OutFile install.bat
 .\install.bat
 ```
 
@@ -73,7 +73,7 @@ Or just double-click the downloaded `install.bat` file.
 **Best for:** Advanced users comfortable with PowerShell
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1 | iex
 ```
 
 ### Method 3: Download and Inspect First
@@ -82,7 +82,7 @@ iwr -useb https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/inst
 
 ```powershell
 # Download the installer
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1" -OutFile install.ps1
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1" -OutFile install.ps1
 
 # Review the code (optional but recommended)
 notepad install.ps1
@@ -236,7 +236,7 @@ To update to the latest version, just run the installer again:
 
 **Using PowerShell:**
 ```powershell
-iwr -useb https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1 | iex
 ```
 
 The installer will:
@@ -249,7 +249,7 @@ The installer will:
 ### Method 1: Batch File (Easiest)
 
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/uninstall.bat" -OutFile uninstall.bat
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/uninstall.bat" -OutFile uninstall.bat
 .\uninstall.bat
 ```
 

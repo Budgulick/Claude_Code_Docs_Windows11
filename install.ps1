@@ -16,7 +16,7 @@ Set-StrictMode -Version Latest
 $SCRIPT_VERSION = "0.3.3"
 $INSTALL_DIR = Join-Path $env:USERPROFILE ".claude-code-docs"
 $INSTALL_BRANCH = "main"
-$REPO_URL = "https://github.com/ericbuess/claude-code-docs.git"
+$REPO_URL = "https://github.com/Budgulick/Claude_Code_Docs_Windows11.git"
 
 # Display banner
 Write-Host "Claude Code Docs Installer v$SCRIPT_VERSION (Windows)" -ForegroundColor Cyan
@@ -593,7 +593,7 @@ if (Test-Path $templatePath) {
 } else {
     Write-Host "  [WARN] Template file missing, attempting recovery..." -ForegroundColor Yellow
     # Try to fetch the template file directly
-    $templateUrl = "https://raw.githubusercontent.com/ericbuess/claude-code-docs/$INSTALL_BRANCH/scripts/claude-docs-helper.ps1.template"
+    $templateUrl = "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/$INSTALL_BRANCH/scripts/claude-docs-helper.ps1.template"
     try {
         Invoke-WebRequest -Uri $templateUrl -OutFile $helperPath -UseBasicParsing
         Write-Host "  [OK] Helper script downloaded directly" -ForegroundColor Green

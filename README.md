@@ -33,7 +33,7 @@ curl -fsSL https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/ins
 
 To update (Windows PowerShell):
 ```powershell
-iwr -useb https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1 | iex
 ```
 
 ## Why This Exists
@@ -79,7 +79,7 @@ curl -fsSL https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/ins
 
 Download and double-click `install.bat`:
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.bat" -OutFile install.bat
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.bat" -OutFile install.bat
 ```
 Then double-click `install.bat` to run.
 
@@ -87,12 +87,12 @@ Then double-click `install.bat` to run.
 
 Run this command in PowerShell:
 ```powershell
-iwr -useb https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1 | iex
 ```
 
 **Option 3: Download and Run Manually**
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1" -OutFile install.ps1
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1" -OutFile install.ps1
 .\install.ps1
 ```
 
@@ -192,7 +192,7 @@ curl -fsSL https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/ins
 
 **Windows:**
 ```powershell
-iwr -useb https://raw.githubusercontent.com/ericbuess/claude-code-docs/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/install.ps1 | iex
 ```
 
 The installer will handle migration and updates automatically.
