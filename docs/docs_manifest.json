@@ -219,8 +219,8 @@
     "settings.md": {
       "original_url": "https://code.claude.com/docs/en/settings",
       "original_md_url": "https://code.claude.com/docs/en/settings.md",
-      "hash": "9e99b33459fb4eeae081cb5850be1f93da1f22449cfffa9ddba7fc6ff9680edf",
-      "last_updated": "2025-12-16T18:33:06.815743"
+      "hash": "d6193053323396cf4e7c8bc3a923b387ed32a0fdc151219d30a1734a749869a1",
+      "last_updated": "2025-12-17T01:41:04.229761"
     },
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
@@ -285,14 +285,14 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "14104b5dc9ab961be68bbcfeee42b8b2eb8b6130e1dac9d27e9fd536a612df72",
-      "last_updated": "2025-12-16T01:44:53.926710",
+      "hash": "ade3d7161dae56937a484b97b7ed7446271c00cef9d2a1c1930f5599423c0ddb",
+      "last_updated": "2025-12-17T01:41:10.087874",
       "source": "claude-code-repository"
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-12-16T21:21:38.121949",
-    "fetch_duration_seconds": 36.252314,
+    "last_fetch_completed": "2025-12-17T01:41:10.087892",
+    "fetch_duration_seconds": 59.100678,
     "total_pages_discovered": 47,
     "pages_fetched_successfully": 48,
     "pages_failed": 0,
@@ -302,7 +302,7 @@
     "total_files": 48,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-12-16T21:21:38.121981",
+  "last_updated": "2025-12-17T01:41:10.087914",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
