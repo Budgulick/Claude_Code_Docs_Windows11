@@ -18,6 +18,12 @@
       "hash": "3412893eca2d799ac0f53886b7672e996a9e86126d353bfdbbc9240e639c957b",
       "last_updated": "2025-12-05T12:02:17.612141"
     },
+    "chrome.md": {
+      "original_url": "https://code.claude.com/docs/en/chrome",
+      "original_md_url": "https://code.claude.com/docs/en/chrome.md",
+      "hash": "b6457507dd4a3dba76692b5eca45624a496781def22762a6a0422305320972ed",
+      "last_updated": "2025-12-18T18:32:18.733424"
+    },
     "claude-code-on-the-web.md": {
       "original_url": "https://code.claude.com/docs/en/claude-code-on-the-web",
       "original_md_url": "https://code.claude.com/docs/en/claude-code-on-the-web.md",
@@ -27,8 +33,8 @@
     "cli-reference.md": {
       "original_url": "https://code.claude.com/docs/en/cli-reference",
       "original_md_url": "https://code.claude.com/docs/en/cli-reference.md",
-      "hash": "e084a5b4ea6ffc18f1ef1be036c0a2c40ef371879dd66270417985dcd8537784",
-      "last_updated": "2025-12-17T15:24:12.886392"
+      "hash": "f785e1ab67f1aa8303c9d991ff1adce00db55555d45bff1df5ce7457cce2fafe",
+      "last_updated": "2025-12-18T18:32:19.933882"
     },
     "common-workflows.md": {
       "original_url": "https://code.claude.com/docs/en/common-workflows",
@@ -279,8 +285,8 @@
     "vs-code.md": {
       "original_url": "https://code.claude.com/docs/en/vs-code",
       "original_md_url": "https://code.claude.com/docs/en/vs-code.md",
-      "hash": "f1b9d660d74940cfb80830e6a176d0b6dc52c6b6b042c1815ba527e913e3486d",
-      "last_updated": "2025-12-17T15:24:39.756787"
+      "hash": "d936c92de540dc33ce188f78e75d4221908aa95af83d71d64bffe292d2225e4e",
+      "last_updated": "2025-12-18T18:32:46.038281"
     },
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
@@ -291,18 +297,18 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-12-18T15:24:25.473479",
-    "fetch_duration_seconds": 29.271342,
-    "total_pages_discovered": 47,
-    "pages_fetched_successfully": 48,
+    "last_fetch_completed": "2025-12-18T18:32:46.085086",
+    "fetch_duration_seconds": 29.666709,
+    "total_pages_discovered": 48,
+    "pages_fetched_successfully": 49,
     "pages_failed": 0,
     "failed_pages": [],
     "sitemap_url": "https://code.claude.com/docs/sitemap.xml",
     "base_url": "https://code.claude.com",
-    "total_files": 48,
+    "total_files": 49,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-12-18T15:24:25.473507",
+  "last_updated": "2025-12-18T18:32:46.085109",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
