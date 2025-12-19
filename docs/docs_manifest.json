@@ -21,8 +21,8 @@
     "chrome.md": {
       "original_url": "https://code.claude.com/docs/en/chrome",
       "original_md_url": "https://code.claude.com/docs/en/chrome.md",
-      "hash": "b6457507dd4a3dba76692b5eca45624a496781def22762a6a0422305320972ed",
-      "last_updated": "2025-12-18T18:32:18.733424"
+      "hash": "0b5470585497c8ece8021d03385dde73d51f7c3755c4c86af844c4e03229a81e",
+      "last_updated": "2025-12-19T18:30:48.101854"
     },
     "claude-code-on-the-web.md": {
       "original_url": "https://code.claude.com/docs/en/claude-code-on-the-web",
@@ -135,8 +135,8 @@
     "mcp.md": {
       "original_url": "https://code.claude.com/docs/en/mcp",
       "original_md_url": "https://code.claude.com/docs/en/mcp.md",
-      "hash": "ca0af6fe023f2a9cca3ae4287dff60d695803edba00664637c2a799ec579b553",
-      "last_updated": "2025-12-18T15:24:09.644816"
+      "hash": "96d84afcc804eef1143aa098db83e2345f968c783b4f810a4c457a503c4a3b59",
+      "last_updated": "2025-12-19T18:30:59.744478"
     },
     "memory.md": {
       "original_url": "https://code.claude.com/docs/en/memory",
@@ -177,8 +177,8 @@
     "overview.md": {
       "original_url": "https://code.claude.com/docs/en/overview",
       "original_md_url": "https://code.claude.com/docs/en/overview.md",
-      "hash": "aeac27d09762e434f53307adc65effae0e499bdf26edd25809191e7f5c3f88e2",
-      "last_updated": "2025-12-16T18:33:01.553796"
+      "hash": "033521262e5e1b7bbd384ebcfeea00d82a59d3f5839bafdfb99fc153b9576d95",
+      "last_updated": "2025-12-19T18:31:03.975672"
     },
     "plugin-marketplaces.md": {
       "original_url": "https://code.claude.com/docs/en/plugin-marketplaces",
@@ -201,8 +201,8 @@
     "quickstart.md": {
       "original_url": "https://code.claude.com/docs/en/quickstart",
       "original_md_url": "https://code.claude.com/docs/en/quickstart.md",
-      "hash": "c7b3ff2f47fc8165c29baf46aa45fae0351618fac3f1c9a43e72e560bd251221",
-      "last_updated": "2025-12-16T18:33:04.046348"
+      "hash": "ac34748382209e8e1e58eee6df0666780bc9537a5052959ff879be38a703808f",
+      "last_updated": "2025-12-19T18:31:06.383311"
     },
     "sandboxing.md": {
       "original_url": "https://code.claude.com/docs/en/sandboxing",
@@ -297,8 +297,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-12-19T15:23:13.147285",
-    "fetch_duration_seconds": 30.744277,
+    "last_fetch_completed": "2025-12-19T18:31:15.169814",
+    "fetch_duration_seconds": 29.573254,
     "total_pages_discovered": 48,
     "pages_fetched_successfully": 49,
     "pages_failed": 0,
@@ -308,7 +308,7 @@
     "total_files": 49,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-12-19T15:23:13.147314",
+  "last_updated": "2025-12-19T18:31:15.169838",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
