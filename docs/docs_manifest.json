@@ -51,8 +51,8 @@
     "data-usage.md": {
       "original_url": "https://code.claude.com/docs/en/data-usage",
       "original_md_url": "https://code.claude.com/docs/en/data-usage.md",
-      "hash": "c4d706a9c156f567899bfcfd00c179df3069b17e60fd4790abeb66fca24fc2a2",
-      "last_updated": "2025-12-08T00:04:59.621448"
+      "hash": "8a6ccd1a1bf61f53783bd41f55829f8c9769bdd83fd2d51ede4ae70b358ef1a5",
+      "last_updated": "2026-01-06T21:21:18.237802"
     },
     "desktop.md": {
       "original_url": "https://code.claude.com/docs/en/desktop",
@@ -231,8 +231,8 @@
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
       "original_md_url": "https://code.claude.com/docs/en/setup.md",
-      "hash": "82a61ea4a6d21bd058f0ba5d3f230b9591183f2963c1dc848898394f1e406810",
-      "last_updated": "2026-01-06T01:47:08.692955"
+      "hash": "89e845635f56f9a74b21234e0ac529747e158850e96aec6e26fa113f79a1a920",
+      "last_updated": "2026-01-06T21:21:36.379996"
     },
     "skills.md": {
       "original_url": "https://code.claude.com/docs/en/skills",
@@ -297,8 +297,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-06T18:32:57.733010",
-    "fetch_duration_seconds": 28.60468,
+    "last_fetch_completed": "2026-01-06T21:21:41.952504",
+    "fetch_duration_seconds": 28.848811,
     "total_pages_discovered": 48,
     "pages_fetched_successfully": 49,
     "pages_failed": 0,
@@ -308,7 +308,7 @@
     "total_files": 49,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-01-06T18:32:57.733038",
+  "last_updated": "2026-01-06T21:21:41.952540",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
