@@ -57,8 +57,8 @@
     "desktop.md": {
       "original_url": "https://code.claude.com/docs/en/desktop",
       "original_md_url": "https://code.claude.com/docs/en/desktop.md",
-      "hash": "dd05d101547f58b52ebae3c15b87b226371522ccd46457a3a19c0f16b1970d33",
-      "last_updated": "2025-12-19T01:43:30.317037"
+      "hash": "dbadc2bcc3a08b6609b30e739b9633124d55e0f993ac93ea1aaf70438122d5e8",
+      "last_updated": "2026-01-07T09:28:33.637671"
     },
     "devcontainer.md": {
       "original_url": "https://code.claude.com/docs/en/devcontainer",
@@ -297,8 +297,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-07T06:35:29.405517",
-    "fetch_duration_seconds": 28.114557,
+    "last_fetch_completed": "2026-01-07T09:28:55.344042",
+    "fetch_duration_seconds": 27.147532,
     "total_pages_discovered": 48,
     "pages_fetched_successfully": 49,
     "pages_failed": 0,
@@ -308,7 +308,7 @@
     "total_files": 49,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-01-07T06:35:29.405545",
+  "last_updated": "2026-01-07T09:28:55.344089",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
