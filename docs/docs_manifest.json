@@ -33,8 +33,8 @@
     "cli-reference.md": {
       "original_url": "https://code.claude.com/docs/en/cli-reference",
       "original_md_url": "https://code.claude.com/docs/en/cli-reference.md",
-      "hash": "80819aa262fbe2d75e447c729ff85cf2bf9a412361a2e10b59cd4d0da451d230",
-      "last_updated": "2026-01-08T01:46:56.017294"
+      "hash": "52599ccd2f718989ed1530b7fa62497352c84cf48f37233e7c8e976d71c96e2e",
+      "last_updated": "2026-01-10T03:56:25.877228"
     },
     "common-workflows.md": {
       "original_url": "https://code.claude.com/docs/en/common-workflows",
@@ -201,8 +201,8 @@
     "plugins-reference.md": {
       "original_url": "https://code.claude.com/docs/en/plugins-reference",
       "original_md_url": "https://code.claude.com/docs/en/plugins-reference.md",
-      "hash": "f6ff09af57e9999f137aca2526942c6390a73e8d796d5d16ad14553e230c2cb2",
-      "last_updated": "2026-01-07T21:20:42.884975"
+      "hash": "0ffe76fbc6056137d0fedb5c701d9c14eec6c4c4ced7a32e35c8fd8514d4e9fe",
+      "last_updated": "2026-01-10T03:56:42.713514"
     },
     "quickstart.md": {
       "original_url": "https://code.claude.com/docs/en/quickstart",
@@ -297,8 +297,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-10T01:44:21.519951",
-    "fetch_duration_seconds": 28.385736,
+    "last_fetch_completed": "2026-01-10T03:56:51.213167",
+    "fetch_duration_seconds": 28.794028,
     "total_pages_discovered": 48,
     "pages_fetched_successfully": 49,
     "pages_failed": 0,
@@ -308,7 +308,7 @@
     "total_files": 49,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-01-10T01:44:21.519969",
+  "last_updated": "2026-01-10T03:56:51.213192",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
