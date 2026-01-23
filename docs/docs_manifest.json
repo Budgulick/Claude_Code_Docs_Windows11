@@ -135,8 +135,8 @@
     "interactive-mode.md": {
       "original_url": "https://code.claude.com/docs/en/interactive-mode",
       "original_md_url": "https://code.claude.com/docs/en/interactive-mode.md",
-      "hash": "b1072a031672bec2a9c89eb0df4e691df089a130466ea790bc3fd0c42df33951",
-      "last_updated": "2026-01-22T01:51:04.780269"
+      "hash": "ad58f5b8c2743257cf5f2a0754bd61064471166a2b41c5a78cd0e134aa48b678",
+      "last_updated": "2026-01-23T01:47:59.347794"
     },
     "jetbrains.md": {
       "original_url": "https://code.claude.com/docs/en/jetbrains",
@@ -243,14 +243,14 @@
     "settings.md": {
       "original_url": "https://code.claude.com/docs/en/settings",
       "original_md_url": "https://code.claude.com/docs/en/settings.md",
-      "hash": "46e60e867e94180cef54fe50d2dcce55af4677f06394984f540bff203b414833",
-      "last_updated": "2026-01-22T21:24:44.132319"
+      "hash": "2b0a63cf5da2729fb9431b74b843e8221f1d2548982773ca9dbd1e93e080b572",
+      "last_updated": "2026-01-23T01:48:10.166083"
     },
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
       "original_md_url": "https://code.claude.com/docs/en/setup.md",
-      "hash": "ec307d74f3fea4ada3c1554f6361a5bad2943efa7ce52e0a8c164046f4dba971",
-      "last_updated": "2026-01-22T21:24:45.000797"
+      "hash": "6a9f37dab569ce53bf5dd255f0ad55dce9ed8ecb77dd31e60552787c72773317",
+      "last_updated": "2026-01-23T01:48:10.757660"
     },
     "skills.md": {
       "original_url": "https://code.claude.com/docs/en/skills",
@@ -297,20 +297,20 @@
     "vs-code.md": {
       "original_url": "https://code.claude.com/docs/en/vs-code",
       "original_md_url": "https://code.claude.com/docs/en/vs-code.md",
-      "hash": "ff63b4cafa572514766430bdb1633deb994833dc670dcae2fa55d8b6441c1e00",
-      "last_updated": "2026-01-22T01:51:22.069742"
+      "hash": "53a042b55069314cc026cf5eaca649e99cd8dfe2a2b95b5cab9a9abc72e7beaf",
+      "last_updated": "2026-01-23T01:48:15.443689"
     },
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "cc7fa7cad9aea3f536ca025e659705c5cc39b7fb926373451d75206f2d839478",
-      "last_updated": "2026-01-22T21:24:51.862035",
+      "hash": "c9e4802c87b3bf83edf26779ee9ec7f6368c58250627ecbf35999cd1a0af4dd8",
+      "last_updated": "2026-01-23T01:48:15.477937",
       "source": "claude-code-repository"
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-22T21:24:51.862051",
-    "fetch_duration_seconds": 37.50016,
+    "last_fetch_completed": "2026-01-23T01:48:15.477964",
+    "fetch_duration_seconds": 29.885909,
     "total_pages_discovered": 50,
     "pages_fetched_successfully": 51,
     "pages_failed": 0,
@@ -320,7 +320,7 @@
     "total_files": 51,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-01-22T21:24:51.862068",
+  "last_updated": "2026-01-23T01:48:15.477988",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
