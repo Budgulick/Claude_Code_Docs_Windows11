@@ -183,8 +183,8 @@
     "mcp.md": {
       "original_url": "https://code.claude.com/docs/en/mcp",
       "original_md_url": "https://code.claude.com/docs/en/mcp.md",
-      "hash": "900adf8bce06226708485caba9db59f693315f019c14b7f6b275a54dabd52ac8",
-      "last_updated": "2026-02-05T02:06:27.725374"
+      "hash": "4fca86fce7dd40b1ba7026ee439cdca9e34c65cbe72587d8aef378fa408f6489",
+      "last_updated": "2026-02-17T21:36:38.761602"
     },
     "memory.md": {
       "original_url": "https://code.claude.com/docs/en/memory",
@@ -345,8 +345,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-02-17T18:58:40.735694",
-    "fetch_duration_seconds": 35.851316,
+    "last_fetch_completed": "2026-02-17T21:36:54.380057",
+    "fetch_duration_seconds": 34.457123,
     "total_pages_discovered": 56,
     "pages_fetched_successfully": 57,
     "pages_failed": 0,
@@ -356,7 +356,7 @@
     "total_files": 57,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-02-17T18:58:40.735718",
+  "last_updated": "2026-02-17T21:36:54.380083",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
