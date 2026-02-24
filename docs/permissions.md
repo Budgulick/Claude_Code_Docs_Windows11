@@ -135,20 +135,20 @@ When `*` appears at the end with a space before it (like `Bash(ls *)`), it enfor
 
 Read and Edit rules both follow the [gitignore](https://git-scm.com/docs/gitignore) specification with four distinct pattern types:
 
-| Pattern            | Meaning                                | Example                          | Matches                            |
-| ------------------ | -------------------------------------- | -------------------------------- | ---------------------------------- |
-| `//path`           | **Absolute** path from filesystem root | `Read(//Users/alice/secrets/**)` | `/Users/alice/secrets/**`          |
-| `~/path`           | Path from **home** directory           | `Read(~/Documents/*.pdf)`        | `/Users/alice/Documents/*.pdf`     |
-| `/path`            | Path **relative to settings file**     | `Edit(/src/**/*.ts)`             | `<settings file path>/src/**/*.ts` |
-| `path` or `./path` | Path **relative to current directory** | `Read(*.env)`                    | `<cwd>/*.env`                      |
+| Pattern            | Meaning                                | Example                          | Matches                        |
+| ------------------ | -------------------------------------- | -------------------------------- | ------------------------------ |
+| `//path`           | **Absolute** path from filesystem root | `Read(//Users/alice/secrets/**)` | `/Users/alice/secrets/**`      |
+| `~/path`           | Path from **home** directory           | `Read(~/Documents/*.pdf)`        | `/Users/alice/Documents/*.pdf` |
+| `/path`            | Path **relative to project root**      | `Edit(/src/**/*.ts)`             | `<project root>/src/**/*.ts`   |
+| `path` or `./path` | Path **relative to current directory** | `Read(*.env)`                    | `<cwd>/*.env`                  |
 
 <Warning>
-  A pattern like `/Users/alice/file` is NOT an absolute path. It's relative to your settings file. Use `//Users/alice/file` for absolute paths.
+  A pattern like `/Users/alice/file` is NOT an absolute path. It's relative to the project root. Use `//Users/alice/file` for absolute paths.
 </Warning>
 
 Examples:
 
-* `Edit(/docs/**)`: edits in `<project>/docs/` (NOT `/docs/`)
+* `Edit(/docs/**)`: edits in `<project>/docs/` (NOT `/docs/` and NOT `<project>/.claude/docs/`)
 * `Read(~/.zshrc)`: reads your home directory's `.zshrc`
 * `Edit(//tmp/scratch.txt)`: edits the absolute path `/tmp/scratch.txt`
 * `Read(src/**)`: reads from `<current-directory>/src/`

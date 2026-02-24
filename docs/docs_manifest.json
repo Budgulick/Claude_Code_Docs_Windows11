@@ -51,8 +51,8 @@
     "cli-reference.md": {
       "original_url": "https://code.claude.com/docs/en/cli-reference",
       "original_md_url": "https://code.claude.com/docs/en/cli-reference.md",
-      "hash": "d5ce55249779558228219dd835d15cc4ee63808b55e9f7109918a6e57b090809",
-      "last_updated": "2026-02-24T19:02:28.975253"
+      "hash": "1fbdbfdf50cab870a39f8304858d82e9de9cb13c96f2a23fdd06967238f3f291",
+      "last_updated": "2026-02-24T21:35:41.916804"
     },
     "common-workflows.md": {
       "original_url": "https://code.claude.com/docs/en/common-workflows",
@@ -147,8 +147,8 @@
     "how-claude-code-works.md": {
       "original_url": "https://code.claude.com/docs/en/how-claude-code-works",
       "original_md_url": "https://code.claude.com/docs/en/how-claude-code-works.md",
-      "hash": "a7713a327ebdfa2648057cb14ab85f5d2b18129ec9a0481c3d1657e4fca22481",
-      "last_updated": "2026-02-24T19:02:38.420337"
+      "hash": "8ef585367002d0a0ae87ad4b287ce38e5a699589c37291590eb4c8a50899b5b6",
+      "last_updated": "2026-02-24T21:35:51.729486"
     },
     "interactive-mode.md": {
       "original_url": "https://code.claude.com/docs/en/interactive-mode",
@@ -231,8 +231,8 @@
     "permissions.md": {
       "original_url": "https://code.claude.com/docs/en/permissions",
       "original_md_url": "https://code.claude.com/docs/en/permissions.md",
-      "hash": "25d873a26bcf8b9b7577502d7bcc193e6389e76664e14fe1343198875459c158",
-      "last_updated": "2026-02-24T19:02:46.696421"
+      "hash": "ac2b5f76a6ec0533c593dcb2b33ca7a84ed80d26084b6f8951a5aed0cfea5a2d",
+      "last_updated": "2026-02-24T21:36:00.421440"
     },
     "plugin-marketplaces.md": {
       "original_url": "https://code.claude.com/docs/en/plugin-marketplaces",
@@ -291,8 +291,8 @@
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
       "original_md_url": "https://code.claude.com/docs/en/setup.md",
-      "hash": "4bc62d6c45c9f7744b983eef408cc5cc228a24e62f11d0af39399983e3c84c43",
-      "last_updated": "2026-02-24T19:02:52.856415"
+      "hash": "2d7f017f0fcf04cbae5cd251327e6fa6b5d7ce0d7b0700e0dd5e4dae88a8824b",
+      "last_updated": "2026-02-24T21:36:06.961908"
     },
     "skills.md": {
       "original_url": "https://code.claude.com/docs/en/skills",
@@ -315,8 +315,8 @@
     "sub-agents.md": {
       "original_url": "https://code.claude.com/docs/en/sub-agents",
       "original_md_url": "https://code.claude.com/docs/en/sub-agents.md",
-      "hash": "c734da2d86aad97ac48c644f15a03a9ebbf90a5fd73eb0eeb8b6af02a42953fe",
-      "last_updated": "2026-02-21T18:36:23.762633"
+      "hash": "1444193f7ed4923c7aa52cc4b6d327a86d88d9eed5363663d748a2a74763a666",
+      "last_updated": "2026-02-24T21:36:09.668333"
     },
     "terminal-config.md": {
       "original_url": "https://code.claude.com/docs/en/terminal-config",
@@ -345,14 +345,14 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "150c3373285b93d586c0b06093ffb218e83dad5d2e9e406910b2b6f4761a4818",
-      "last_updated": "2026-02-24T07:01:20.751026",
+      "hash": "49de269c03eac8b216a000216a151a100876f93a704c4a9e9b1d6b4698dc89b3",
+      "last_updated": "2026-02-24T21:36:12.211170",
       "source": "claude-code-repository"
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-02-24T19:02:57.746494",
-    "fetch_duration_seconds": 34.04493,
+    "last_fetch_completed": "2026-02-24T21:36:12.211192",
+    "fetch_duration_seconds": 35.737311,
     "total_pages_discovered": 57,
     "pages_fetched_successfully": 58,
     "pages_failed": 0,
@@ -362,7 +362,7 @@
     "total_files": 58,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-02-24T19:02:57.746519",
+  "last_updated": "2026-02-24T21:36:12.211209",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
