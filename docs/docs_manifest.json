@@ -153,8 +153,8 @@
     "interactive-mode.md": {
       "original_url": "https://code.claude.com/docs/en/interactive-mode",
       "original_md_url": "https://code.claude.com/docs/en/interactive-mode.md",
-      "hash": "658b60d526bea44d7e43bfebd306363d08dbfd7a36461adcb5668a25d10a6499",
-      "last_updated": "2026-02-26T07:00:52.301262"
+      "hash": "273e05e0d593a5e2fc2243016526aba416fdf8f279098ed12d9b66ec7d722f11",
+      "last_updated": "2026-02-26T18:53:16.277893"
     },
     "jetbrains.md": {
       "original_url": "https://code.claude.com/docs/en/jetbrains",
@@ -261,8 +261,8 @@
     "remote-control.md": {
       "original_url": "https://code.claude.com/docs/en/remote-control",
       "original_md_url": "https://code.claude.com/docs/en/remote-control.md",
-      "hash": "c351c56c0117baa39643044a146174bf6d55183ac55a8e05702b1ec1b970dd15",
-      "last_updated": "2026-02-24T19:02:49.831344"
+      "hash": "ccab0957eee049f4fb6e988cb099d32ee74ca92aca1890589cedbc59629d0814",
+      "last_updated": "2026-02-26T18:53:26.707877"
     },
     "sandboxing.md": {
       "original_url": "https://code.claude.com/docs/en/sandboxing",
@@ -351,8 +351,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-02-26T15:57:25.358064",
-    "fetch_duration_seconds": 34.980063,
+    "last_fetch_completed": "2026-02-26T18:53:34.282122",
+    "fetch_duration_seconds": 32.596807,
     "total_pages_discovered": 57,
     "pages_fetched_successfully": 58,
     "pages_failed": 0,
@@ -362,7 +362,7 @@
     "total_files": 58,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-02-26T15:57:25.358086",
+  "last_updated": "2026-02-26T18:53:34.282151",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
