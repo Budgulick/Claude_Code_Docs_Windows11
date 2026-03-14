@@ -506,7 +506,7 @@ Use @ to quickly include files or directories without waiting for Claude to read
 
 [Extended thinking](https://platform.claude.com/docs/en/build-with-claude/extended-thinking) is enabled by default, giving Claude space to reason through complex problems step-by-step before responding. This reasoning is visible in verbose mode, which you can toggle on with `Ctrl+O`.
 
-Additionally, Opus 4.6 introduces adaptive reasoning: instead of a fixed thinking token budget, the model dynamically allocates thinking based on your [effort level](/en/model-config#adjust-effort-level) setting. Extended thinking and adaptive reasoning work together to give you control over how deeply Claude reasons before responding.
+Additionally, Opus 4.6 and Sonnet 4.6 support adaptive reasoning: instead of a fixed thinking token budget, the model dynamically allocates thinking based on your [effort level](/en/model-config#adjust-effort-level) setting. Extended thinking and adaptive reasoning work together to give you control over how deeply Claude reasons before responding.
 
 Extended thinking is particularly valuable for complex architectural decisions, challenging bugs, multi-step implementation planning, and evaluating tradeoffs between different approaches.
 
@@ -518,13 +518,13 @@ Extended thinking is particularly valuable for complex architectural decisions, 
 
 Thinking is enabled by default, but you can adjust or disable it.
 
-| Scope                    | How to configure                                                     | Details                                                                                                                                                          |
-| ------------------------ | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Effort level**         | Adjust in `/model` or set [`CLAUDE_CODE_EFFORT_LEVEL`](/en/env-vars) | Control thinking depth for Opus 4.6 and Sonnet 4.6: low, medium, high. See [Adjust effort level](/en/model-config#adjust-effort-level)                           |
-| **`ultrathink` keyword** | Include "ultrathink" anywhere in your prompt                         | Sets effort to high for that turn on Opus 4.6 and Sonnet 4.6. Useful for one-off tasks requiring deep reasoning without permanently changing your effort setting |
-| **Toggle shortcut**      | Press `Option+T` (macOS) or `Alt+T` (Windows/Linux)                  | Toggle thinking on/off for the current session (all models). May require [terminal configuration](/en/terminal-config) to enable Option key shortcuts            |
-| **Global default**       | Use `/config` to toggle thinking mode                                | Sets your default across all projects (all models).<br />Saved as `alwaysThinkingEnabled` in `~/.claude/settings.json`                                           |
-| **Limit token budget**   | Set [`MAX_THINKING_TOKENS`](/en/env-vars) environment variable       | Limit the thinking budget to a specific number of tokens (ignored on Opus 4.6 unless set to 0). Example: `export MAX_THINKING_TOKENS=10000`                      |
+| Scope                    | How to configure                                                                     | Details                                                                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Effort level**         | Run `/effort`, adjust in `/model`, or set [`CLAUDE_CODE_EFFORT_LEVEL`](/en/env-vars) | Control thinking depth for Opus 4.6 and Sonnet 4.6. See [Adjust effort level](/en/model-config#adjust-effort-level)                                              |
+| **`ultrathink` keyword** | Include "ultrathink" anywhere in your prompt                                         | Sets effort to high for that turn on Opus 4.6 and Sonnet 4.6. Useful for one-off tasks requiring deep reasoning without permanently changing your effort setting |
+| **Toggle shortcut**      | Press `Option+T` (macOS) or `Alt+T` (Windows/Linux)                                  | Toggle thinking on/off for the current session (all models). May require [terminal configuration](/en/terminal-config) to enable Option key shortcuts            |
+| **Global default**       | Use `/config` to toggle thinking mode                                                | Sets your default across all projects (all models).<br />Saved as `alwaysThinkingEnabled` in `~/.claude/settings.json`                                           |
+| **Limit token budget**   | Set [`MAX_THINKING_TOKENS`](/en/env-vars) environment variable                       | Limit the thinking budget to a specific number of tokens (ignored on Opus 4.6 and Sonnet 4.6 unless set to 0). Example: `export MAX_THINKING_TOKENS=10000`       |
 
 To view Claude's thinking process, press `Ctrl+O` to toggle verbose mode and see the internal reasoning displayed as gray italic text.
 
@@ -532,9 +532,9 @@ To view Claude's thinking process, press `Ctrl+O` to toggle verbose mode and see
 
 Extended thinking controls how much internal reasoning Claude performs before responding. More thinking provides more space to explore solutions, analyze edge cases, and self-correct mistakes.
 
-**With Opus 4.6**, thinking uses adaptive reasoning: the model dynamically allocates thinking tokens based on the [effort level](/en/model-config#adjust-effort-level) you select (low, medium, high). This is the recommended way to tune the tradeoff between speed and reasoning depth.
+**With Opus 4.6 and Sonnet 4.6**, thinking uses adaptive reasoning: the model dynamically allocates thinking tokens based on the [effort level](/en/model-config#adjust-effort-level) you select. This is the recommended way to tune the tradeoff between speed and reasoning depth.
 
-**With other models**, thinking uses a fixed budget of up to 31,999 tokens from your output budget. You can limit this with the [`MAX_THINKING_TOKENS`](/en/env-vars) environment variable, or disable thinking entirely via `/config` or the `Option+T`/`Alt+T` toggle.
+**With older models**, thinking uses a fixed budget of up to 31,999 tokens from your output budget. You can limit this with the [`MAX_THINKING_TOKENS`](/en/env-vars) environment variable, or disable thinking entirely via `/config` or the `Option+T`/`Alt+T` toggle.
 
 `MAX_THINKING_TOKENS` is ignored on Opus 4.6 and Sonnet 4.6, since adaptive reasoning controls thinking depth instead. The one exception: setting `MAX_THINKING_TOKENS=0` still disables thinking entirely on any model. To disable adaptive thinking and revert to the fixed thinking budget, set `CLAUDE_CODE_DISABLE_ADAPTIVE_THINKING=1`. See [environment variables](/en/env-vars).
 
