@@ -561,8 +561,14 @@ Sessions are stored per project directory. The `/resume` picker shows sessions f
 Give sessions descriptive names to find them later. This is a best practice when working on multiple tasks or features.
 
 <Steps>
-  <Step title="Name the current session">
-    Use `/rename` during a session to give it a memorable name:
+  <Step title="Name the session">
+    Name a session at startup with `-n`:
+
+    ```bash  theme={null}
+    claude -n auth-refactor
+    ```
+
+    Or use `/rename` during a session, which also shows the name on the prompt bar:
 
     ```text  theme={null}
     /rename auth-refactor
@@ -717,12 +723,76 @@ For automated coordination of parallel sessions with shared tasks and messaging,
 When you kick off a long-running task and switch to another window, you can set up desktop notifications so you know when Claude finishes or needs your input. This uses the `Notification` [hook event](/en/hooks-guide#get-notified-when-claude-needs-input), which fires whenever Claude is waiting for permission, idle and ready for a new prompt, or completing authentication.
 
 <Steps>
-  <Step title="Open the hooks menu">
-    Type `/hooks` and select `Notification` from the list of events.
+  <Step title="Add the hook to your settings">
+    Open `~/.claude/settings.json` and add a `Notification` hook that calls your platform's native notification command:
+
+    <Tabs>
+      <Tab title="macOS">
+        ```json  theme={null}
+        {
+          "hooks": {
+            "Notification": [
+              {
+                "matcher": "",
+                "hooks": [
+                  {
+                    "type": "command",
+                    "command": "osascript -e 'display notification \"Claude Code needs your attention\" with title \"Claude Code\"'"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        ```
+      </Tab>
+
+      <Tab title="Linux">
+        ```json  theme={null}
+        {
+          "hooks": {
+            "Notification": [
+              {
+                "matcher": "",
+                "hooks": [
+                  {
+                    "type": "command",
+                    "command": "notify-send 'Claude Code' 'Claude Code needs your attention'"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        ```
+      </Tab>
+
+      <Tab title="Windows">
+        ```json  theme={null}
+        {
+          "hooks": {
+            "Notification": [
+              {
+                "matcher": "",
+                "hooks": [
+                  {
+                    "type": "command",
+                    "command": "powershell.exe -Command \"[System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms'); [System.Windows.Forms.MessageBox]::Show('Claude Code needs your attention', 'Claude Code')\""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        ```
+      </Tab>
+    </Tabs>
+
+    If your settings file already has a `hooks` key, merge the `Notification` entry into it rather than overwriting. You can also ask Claude to write the hook for you by describing what you want in the CLI.
   </Step>
 
-  <Step title="Configure the matcher">
-    Select `+ Match all (no filter)` to fire on all notification types. To notify only for specific events, select `+ Add new matcher…` and enter one of these values:
+  <Step title="Optionally narrow the matcher">
+    By default the hook fires on all notification types. To fire only for specific events, set the `matcher` field to one of these values:
 
     | Matcher              | Fires when                                      |
     | :------------------- | :---------------------------------------------- |
@@ -732,42 +802,12 @@ When you kick off a long-running task and switch to another window, you can set 
     | `elicitation_dialog` | Claude is asking you a question                 |
   </Step>
 
-  <Step title="Add your notification command">
-    Select `+ Add new hook…` and enter the command for your OS:
-
-    <Tabs>
-      <Tab title="macOS">
-        Uses [`osascript`](https://ss64.com/mac/osascript.html) to trigger a native macOS notification through AppleScript:
-
-        ```
-        osascript -e 'display notification "Claude Code needs your attention" with title "Claude Code"'
-        ```
-      </Tab>
-
-      <Tab title="Linux">
-        Uses `notify-send`, which is pre-installed on most Linux desktops with a notification daemon:
-
-        ```
-        notify-send 'Claude Code' 'Claude Code needs your attention'
-        ```
-      </Tab>
-
-      <Tab title="Windows (PowerShell)">
-        Uses PowerShell to show a native message box through .NET's Windows Forms:
-
-        ```
-        powershell.exe -Command "[System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms'); [System.Windows.Forms.MessageBox]::Show('Claude Code needs your attention', 'Claude Code')"
-        ```
-      </Tab>
-    </Tabs>
-  </Step>
-
-  <Step title="Save to user settings">
-    Select `User settings` to apply the notification across all your projects.
+  <Step title="Verify the hook">
+    Type `/hooks` and select `Notification` to confirm the hook appears. Selecting it shows the command that will run. To test it end-to-end, ask Claude to run a command that requires permission and switch away from the terminal, or ask Claude to trigger a notification directly.
   </Step>
 </Steps>
 
-For the full walkthrough with JSON configuration examples, see [Automate workflows with hooks](/en/hooks-guide#get-notified-when-claude-needs-input). For the complete event schema and notification types, see the [Notification reference](/en/hooks#notification).
+For the complete event schema and notification types, see the [Notification reference](/en/hooks#notification).
 
 ***
 
