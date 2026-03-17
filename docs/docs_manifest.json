@@ -262,8 +262,8 @@
     "plugin-marketplaces.md": {
       "original_url": "https://code.claude.com/docs/en/plugin-marketplaces",
       "original_md_url": "https://code.claude.com/docs/en/plugin-marketplaces.md",
-      "hash": "a3ec4e7c45a28f07f2fe6beb5a8bf593af088464776dc42fc82a419a79213f41",
-      "last_updated": "2026-03-12T15:59:36.994440"
+      "hash": "56a1477e15ce0c6b8a86d5f6d694f083766f0782da35629949c7ba16b66853f9",
+      "last_updated": "2026-03-17T04:52:18.125731"
     },
     "plugins.md": {
       "original_url": "https://code.claude.com/docs/en/plugins",
@@ -387,8 +387,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-03-17T02:09:21.400100",
-    "fetch_duration_seconds": 38.546533,
+    "last_fetch_completed": "2026-03-17T04:52:30.411821",
+    "fetch_duration_seconds": 38.588547,
     "total_pages_discovered": 64,
     "pages_fetched_successfully": 65,
     "pages_failed": 0,
@@ -398,7 +398,7 @@
     "total_files": 64,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-03-17T02:09:21.400120",
+  "last_updated": "2026-03-17T04:52:30.411854",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
