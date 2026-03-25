@@ -40,14 +40,14 @@
     "channels.md": {
       "original_url": "https://code.claude.com/docs/en/channels",
       "original_md_url": "https://code.claude.com/docs/en/channels.md",
-      "hash": "6b1dd4526b211b358f9e94a692904badbaaeb780a152ed33ae3ae507a2d54e7b",
-      "last_updated": "2026-03-24T19:03:44.138442"
+      "hash": "bd50c20bb2b5966ff6597c06eb920896708b30f6ff3b68e6a911867a501ebe27",
+      "last_updated": "2026-03-25T21:39:40.534129"
     },
     "channels-reference.md": {
       "original_url": "https://code.claude.com/docs/en/channels-reference",
       "original_md_url": "https://code.claude.com/docs/en/channels-reference.md",
-      "hash": "dda09c39600048ed5bfc001e2a4824cf9ec61915ac6bdf810b23021d9aa4a960",
-      "last_updated": "2026-03-24T19:03:44.744662"
+      "hash": "36756d3392bf01564a90cb9b03016a84829797c298a4df5fc20e90dcf56cc527",
+      "last_updated": "2026-03-25T21:39:41.137141"
     },
     "checkpointing.md": {
       "original_url": "https://code.claude.com/docs/en/checkpointing",
@@ -340,8 +340,8 @@
     "settings.md": {
       "original_url": "https://code.claude.com/docs/en/settings",
       "original_md_url": "https://code.claude.com/docs/en/settings.md",
-      "hash": "b94ccb31870b61cddd23c81586092315dc9ac151adf4e3e44009dd2908874491",
-      "last_updated": "2026-03-25T18:56:41.149942"
+      "hash": "925a1191a46b72fc81450a81ff85067e7459818b4b0e69c93f2ffd427e3ba883",
+      "last_updated": "2026-03-25T21:40:11.376527"
     },
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
@@ -423,8 +423,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-03-25T18:56:48.941307",
-    "fetch_duration_seconds": 42.325618,
+    "last_fetch_completed": "2026-03-25T21:40:19.369457",
+    "fetch_duration_seconds": 42.871316,
     "total_pages_discovered": 70,
     "pages_fetched_successfully": 71,
     "pages_failed": 0,
@@ -434,7 +434,7 @@
     "total_files": 70,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-03-25T18:56:48.941332",
+  "last_updated": "2026-03-25T21:40:19.369485",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
