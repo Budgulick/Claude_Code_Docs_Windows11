@@ -214,12 +214,14 @@ Actions available in the `Attachments` context:
 
 Actions available in the `Footer` context:
 
-| Action                  | Default | Description               |
-| :---------------------- | :------ | :------------------------ |
-| `footer:next`           | Right   | Next footer item          |
-| `footer:previous`       | Left    | Previous footer item      |
-| `footer:openSelected`   | Enter   | Open selected footer item |
-| `footer:clearSelection` | Escape  | Clear footer selection    |
+| Action                  | Default | Description                              |
+| :---------------------- | :------ | :--------------------------------------- |
+| `footer:next`           | Right   | Next footer item                         |
+| `footer:previous`       | Left    | Previous footer item                     |
+| `footer:up`             | Up      | Navigate up in footer (deselects at top) |
+| `footer:down`           | Down    | Navigate down in footer                  |
+| `footer:openSelected`   | Enter   | Open selected footer item                |
+| `footer:clearSelection` | Escape  | Clear footer selection                   |
 
 ### Message selector actions
 
@@ -317,7 +319,7 @@ ctrl+shift+c    Multiple modifiers
 
 A standalone uppercase letter implies Shift. For example, `K` is equivalent to `shift+k`. This is useful for vim-style bindings where uppercase and lowercase keys have different meanings.
 
-Uppercase letters with modifiers (e.g., `ctrl+K`) are treated as stylistic and do **not** imply Shift — `ctrl+K` is the same as `ctrl+k`.
+Uppercase letters with modifiers (e.g., `ctrl+K`) are treated as stylistic and do **not** imply Shift: `ctrl+K` is the same as `ctrl+k`.
 
 ### Chords
 
