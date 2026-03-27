@@ -82,8 +82,8 @@
     "code-review.md": {
       "original_url": "https://code.claude.com/docs/en/code-review",
       "original_md_url": "https://code.claude.com/docs/en/code-review.md",
-      "hash": "6c4b830900ad8ac122d933a3d2244b52c994404eec9308d8af50c284d79197f7",
-      "last_updated": "2026-03-18T07:02:21.203035"
+      "hash": "f80ebd85c8728723eb9603d2370abe26b741a792a5c1691532de9c47814c69c7",
+      "last_updated": "2026-03-27T05:07:07.353323"
     },
     "commands.md": {
       "original_url": "https://code.claude.com/docs/en/commands",
@@ -256,8 +256,8 @@
     "monitoring-usage.md": {
       "original_url": "https://code.claude.com/docs/en/monitoring-usage",
       "original_md_url": "https://code.claude.com/docs/en/monitoring-usage.md",
-      "hash": "558215a8b955a6a7aa544ef747a3e157c441bf18eb6f8b9ef04fbfb885eb6263",
-      "last_updated": "2026-03-25T18:56:31.245284"
+      "hash": "f3cb10aa82732ab500f4873f74b03b6d9cc7cc1f2f4e7017e56f4b135d0c2e72",
+      "last_updated": "2026-03-27T05:07:25.024936"
     },
     "network-config.md": {
       "original_url": "https://code.claude.com/docs/en/network-config",
@@ -435,8 +435,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-03-27T02:28:13.397938",
-    "fetch_duration_seconds": 42.005035,
+    "last_fetch_completed": "2026-03-27T05:07:42.913927",
+    "fetch_duration_seconds": 44.057046,
     "total_pages_discovered": 72,
     "pages_fetched_successfully": 73,
     "pages_failed": 0,
@@ -446,7 +446,7 @@
     "total_files": 72,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-03-27T02:28:13.397957",
+  "last_updated": "2026-03-27T05:07:42.913956",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
