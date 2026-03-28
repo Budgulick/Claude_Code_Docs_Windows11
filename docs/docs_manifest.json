@@ -142,8 +142,8 @@
     "env-vars.md": {
       "original_url": "https://code.claude.com/docs/en/env-vars",
       "original_md_url": "https://code.claude.com/docs/en/env-vars.md",
-      "hash": "3676bb7a88aab0dce2bb4e877014e5372f2c76781a7d94585cdef99f028c9a08",
-      "last_updated": "2026-03-28T15:31:12.494481"
+      "hash": "72b0b6c475c4461a7da7e22165b7632a7f856088c809c98430cbf9c060cd66e3",
+      "last_updated": "2026-03-28T18:41:27.274529"
     },
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
@@ -226,8 +226,8 @@
     "llm-gateway.md": {
       "original_url": "https://code.claude.com/docs/en/llm-gateway",
       "original_md_url": "https://code.claude.com/docs/en/llm-gateway.md",
-      "hash": "48e4e1874fbf9b8e6739dac416ccd604eadda3025b6e7137f5609ada1689e47f",
-      "last_updated": "2026-03-24T19:04:02.122729"
+      "hash": "1584d489de308c24523faddf80aeac77c6f49d8bfbc8d9ae662ad8f3e9decd3b",
+      "last_updated": "2026-03-28T18:41:35.261164"
     },
     "mcp.md": {
       "original_url": "https://code.claude.com/docs/en/mcp",
@@ -364,8 +364,8 @@
     "skills.md": {
       "original_url": "https://code.claude.com/docs/en/skills",
       "original_md_url": "https://code.claude.com/docs/en/skills.md",
-      "hash": "5eda3aa3b27bce77625caf218790658c846e84be21c2b47176e7a4d17e470edb",
-      "last_updated": "2026-03-26T16:11:37.897857"
+      "hash": "7da53dc23bf9551d456239ee54e50ff3a550b14266f8660073061234bed9b7fc",
+      "last_updated": "2026-03-28T18:41:48.307529"
     },
     "slack.md": {
       "original_url": "https://code.claude.com/docs/en/slack",
@@ -435,8 +435,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-03-28T15:31:41.935053",
-    "fetch_duration_seconds": 43.758406,
+    "last_fetch_completed": "2026-03-28T18:41:54.716338",
+    "fetch_duration_seconds": 40.838709,
     "total_pages_discovered": 72,
     "pages_fetched_successfully": 73,
     "pages_failed": 0,
@@ -446,7 +446,7 @@
     "total_files": 72,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-03-28T15:31:41.935082",
+  "last_updated": "2026-03-28T18:41:54.716359",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
