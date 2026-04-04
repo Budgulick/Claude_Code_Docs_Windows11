@@ -154,8 +154,8 @@
     "env-vars.md": {
       "original_url": "https://code.claude.com/docs/en/env-vars",
       "original_md_url": "https://code.claude.com/docs/en/env-vars.md",
-      "hash": "b44e44fff75a774f2b462e7dee2ec0a64f0e860b8383400ede349390c183b37b",
-      "last_updated": "2026-04-02T18:57:28.608645"
+      "hash": "84f5dfdb14fc1d1e662c75b88b576637f0b1e48d082a4e495ef68050a2aaa98d",
+      "last_updated": "2026-04-04T04:50:12.976307"
     },
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
@@ -457,6 +457,24 @@
       "hash": "a215d5ded10b20b8ae6b91e00d5352f0ed292bda04422cd31d3af86ac9198a04",
       "last_updated": "2026-04-03T21:35:20.643170"
     },
+    "whats-new.md": {
+      "original_url": "https://code.claude.com/docs/en/whats-new",
+      "original_md_url": "https://code.claude.com/docs/en/whats-new.md",
+      "hash": "d0a901e3239c4e8ac9c9e1128feaa2384761d3519ba0dbe059ce4f0f4b51637b",
+      "last_updated": "2026-04-04T04:50:42.152849"
+    },
+    "whats-new__2026-w13.md": {
+      "original_url": "https://code.claude.com/docs/en/whats-new/2026-w13",
+      "original_md_url": "https://code.claude.com/docs/en/whats-new/2026-w13.md",
+      "hash": "0e9f2b3e43911aea379e493505ec817953ba2cbadd89566caeaa286d14c1122b",
+      "last_updated": "2026-04-04T04:50:42.728586"
+    },
+    "whats-new__2026-w14.md": {
+      "original_url": "https://code.claude.com/docs/en/whats-new/2026-w14",
+      "original_md_url": "https://code.claude.com/docs/en/whats-new/2026-w14.md",
+      "hash": "fb9c317d9dff35c4ea0f65942ef4186f73e02927c89760d8cf9b9fc871c779b0",
+      "last_updated": "2026-04-04T04:50:43.300710"
+    },
     "zero-data-retention.md": {
       "original_url": "https://code.claude.com/docs/en/zero-data-retention",
       "original_md_url": "https://code.claude.com/docs/en/zero-data-retention.md",
@@ -465,18 +483,18 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-04T02:11:31.819106",
-    "fetch_duration_seconds": 44.480628,
-    "total_pages_discovered": 77,
-    "pages_fetched_successfully": 78,
+    "last_fetch_completed": "2026-04-04T04:50:43.918595",
+    "fetch_duration_seconds": 45.552119,
+    "total_pages_discovered": 80,
+    "pages_fetched_successfully": 81,
     "pages_failed": 0,
     "failed_pages": [],
     "sitemap_url": "https://code.claude.com/docs/sitemap.xml",
     "base_url": "https://code.claude.com",
-    "total_files": 77,
+    "total_files": 80,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-04T02:11:31.819126",
+  "last_updated": "2026-04-04T04:50:43.918620",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
