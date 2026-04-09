@@ -382,14 +382,14 @@
     "hooks.md": {
       "original_url": "https://code.claude.com/docs/en/hooks",
       "original_md_url": "https://code.claude.com/docs/en/hooks.md",
-      "hash": "b16405a51cb4fb5dd8df2502cac257113d89f417e77c1d8173cfc3d8d60af4f9",
-      "last_updated": "2026-04-08T02:29:57.412579"
+      "hash": "e4e67e72a4ae2f2fa5e4ba01ef5d73104a9a75a7dea865b3d54a69d9d302cf7a",
+      "last_updated": "2026-04-09T16:18:59.578194"
     },
     "hooks-guide.md": {
       "original_url": "https://code.claude.com/docs/en/hooks-guide",
       "original_md_url": "https://code.claude.com/docs/en/hooks-guide.md",
-      "hash": "5ea26444e0f09f14f3c58bb8ccbb44f86d18b8f2c76a4144e6dc941e77b02ba9",
-      "last_updated": "2026-04-08T02:29:58.021144"
+      "hash": "10c7e1afe9d43fa8c7fdc8284a97d9ad70192a4710cc3310c8ec35629592e8e1",
+      "last_updated": "2026-04-09T16:19:00.188195"
     },
     "how-claude-code-works.md": {
       "original_url": "https://code.claude.com/docs/en/how-claude-code-works",
@@ -406,8 +406,8 @@
     "jetbrains.md": {
       "original_url": "https://code.claude.com/docs/en/jetbrains",
       "original_md_url": "https://code.claude.com/docs/en/jetbrains.md",
-      "hash": "5833d19b4d4bce7b19e89f4ab1b03348b91b1f31534575d18b4319763be2a046",
-      "last_updated": "2026-03-06T02:06:23.794853"
+      "hash": "de4597b24b8075fb2393df6e0128575b9e9df49b596c9fa86edbe722e3ac6073",
+      "last_updated": "2026-04-09T16:19:02.012126"
     },
     "keybindings.md": {
       "original_url": "https://code.claude.com/docs/en/keybindings",
@@ -520,8 +520,8 @@
     "remote-control.md": {
       "original_url": "https://code.claude.com/docs/en/remote-control",
       "original_md_url": "https://code.claude.com/docs/en/remote-control.md",
-      "hash": "440332e73a0f7269e5cdea967be22eca319d3a409ad0855ce2958eb6ba815e6d",
-      "last_updated": "2026-04-04T18:43:15.371343"
+      "hash": "705e2be1726f4d4b3d1e7322b988e088b4c871229604bef9ad2dff32e836e59a",
+      "last_updated": "2026-04-09T16:19:14.190992"
     },
     "sandboxing.md": {
       "original_url": "https://code.claude.com/docs/en/sandboxing",
@@ -622,8 +622,8 @@
     "vs-code.md": {
       "original_url": "https://code.claude.com/docs/en/vs-code",
       "original_md_url": "https://code.claude.com/docs/en/vs-code.md",
-      "hash": "073dbe9429a3d8d29e878390f030b6723adc19c818bf112ceacd828b27f351cb",
-      "last_updated": "2026-04-07T21:42:27.334887"
+      "hash": "9c1b0d930a36fee1e22267de4b3c96b7b7895981150592ae50a215aa5c5343c8",
+      "last_updated": "2026-04-09T16:19:24.779612"
     },
     "web-quickstart.md": {
       "original_url": "https://code.claude.com/docs/en/web-quickstart",
@@ -663,8 +663,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-09T13:42:49.622265",
-    "fetch_duration_seconds": 71.466368,
+    "last_fetch_completed": "2026-04-09T16:19:28.376326",
+    "fetch_duration_seconds": 68.175224,
     "total_pages_discovered": 110,
     "pages_fetched_successfully": 111,
     "pages_failed": 0,
@@ -674,7 +674,7 @@
     "total_files": 110,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-09T13:42:49.622294",
+  "last_updated": "2026-04-09T16:19:28.376354",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
