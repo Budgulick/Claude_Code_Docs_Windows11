@@ -663,8 +663,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-13T08:05:20.157715",
-    "fetch_duration_seconds": 64.639922,
+    "last_fetch_completed": "2026-04-13T10:47:02.462329",
+    "fetch_duration_seconds": 64.453995,
     "total_pages_discovered": 110,
     "pages_fetched_successfully": 111,
     "pages_failed": 0,
@@ -674,7 +674,7 @@
     "total_files": 110,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-13T08:05:20.157744",
+  "last_updated": "2026-04-13T10:47:02.462358",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
