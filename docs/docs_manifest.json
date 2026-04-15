@@ -238,8 +238,8 @@
     "claude-code-on-the-web.md": {
       "original_url": "https://code.claude.com/docs/en/claude-code-on-the-web",
       "original_md_url": "https://code.claude.com/docs/en/claude-code-on-the-web.md",
-      "hash": "80745a2fc0082dfaa83ec997056c2a50cd0189e5a11ba3160104b8e3034b4c12",
-      "last_updated": "2026-04-14T21:53:04.122913"
+      "hash": "29cb742c863e47468e98274f49136881f2412355da2e6a55f1090b15741dbf51",
+      "last_updated": "2026-04-15T16:05:44.480944"
     },
     "claude-directory.md": {
       "original_url": "https://code.claude.com/docs/en/claude-directory",
@@ -328,8 +328,8 @@
     "env-vars.md": {
       "original_url": "https://code.claude.com/docs/en/env-vars",
       "original_md_url": "https://code.claude.com/docs/en/env-vars.md",
-      "hash": "597f7e787f7925881775e4b295c08290330dac63d81402805bc3a36a1cec0833",
-      "last_updated": "2026-04-14T19:16:34.237672"
+      "hash": "5172b144540d0e6f457c7b270846d85921caa1bd34dfe225456ae29fa94b7dcc",
+      "last_updated": "2026-04-15T16:05:54.051518"
     },
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
@@ -556,8 +556,8 @@
     "settings.md": {
       "original_url": "https://code.claude.com/docs/en/settings",
       "original_md_url": "https://code.claude.com/docs/en/settings.md",
-      "hash": "f4783ed1689865b4bb60c1dd29f11de013eaec6e1112cc6e6e0da73ce9adfbd1",
-      "last_updated": "2026-04-14T21:53:37.621149"
+      "hash": "bd6efd6345840d38eb55e3232213b17a94b5f82d585e58e72975c634a5b86b4c",
+      "last_updated": "2026-04-15T16:06:18.696972"
     },
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
@@ -669,8 +669,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-15T13:26:24.024142",
-    "fetch_duration_seconds": 67.208959,
+    "last_fetch_completed": "2026-04-15T16:06:30.058368",
+    "fetch_duration_seconds": 70.844366,
     "total_pages_discovered": 111,
     "pages_fetched_successfully": 112,
     "pages_failed": 0,
@@ -680,7 +680,7 @@
     "total_files": 111,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-15T13:26:24.024173",
+  "last_updated": "2026-04-15T16:06:30.058400",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
