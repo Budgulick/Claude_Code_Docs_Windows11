@@ -262,8 +262,8 @@
     "commands.md": {
       "original_url": "https://code.claude.com/docs/en/commands",
       "original_md_url": "https://code.claude.com/docs/en/commands.md",
-      "hash": "3f19a9cc9eaf4e6c74ab4c5f91a9fc15594d0d276f82184811c53cd46d899878",
-      "last_updated": "2026-04-21T05:27:46.813857"
+      "hash": "fff0f3bf79e45e69b961b4f5596b2dc1257955446b0c568515b4dd1751e5ad35",
+      "last_updated": "2026-04-21T10:18:23.604243"
     },
     "common-workflows.md": {
       "original_url": "https://code.claude.com/docs/en/common-workflows",
@@ -634,8 +634,8 @@
     "ultrareview.md": {
       "original_url": "https://code.claude.com/docs/en/ultrareview",
       "original_md_url": "https://code.claude.com/docs/en/ultrareview.md",
-      "hash": "73fa846a6d9c4437d618177bcf53d7a617da5245f6f6b754566175ebd3859278",
-      "last_updated": "2026-04-18T15:38:20.668058"
+      "hash": "78bb971406524657dfc10880b9fbf46500c43f1ce37b7040e10a9d353a59bfce",
+      "last_updated": "2026-04-21T10:18:57.713376"
     },
     "voice-dictation.md": {
       "original_url": "https://code.claude.com/docs/en/voice-dictation",
@@ -687,8 +687,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-21T07:52:07.012839",
-    "fetch_duration_seconds": 62.94043,
+    "last_fetch_completed": "2026-04-21T10:19:02.232274",
+    "fetch_duration_seconds": 62.740019,
     "total_pages_discovered": 114,
     "pages_fetched_successfully": 115,
     "pages_failed": 0,
@@ -698,7 +698,7 @@
     "total_files": 114,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-21T07:52:07.012878",
+  "last_updated": "2026-04-21T10:19:02.232300",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
