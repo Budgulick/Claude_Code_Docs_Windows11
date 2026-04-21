@@ -207,8 +207,8 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "057047cd5fb63e78bd85541a9fc05d81640d708193cd41a7669cc243bd864c79",
-      "last_updated": "2026-04-18T02:28:47.136164",
+      "hash": "6677c464ab41f1d769b53a1fa5860fbba9d6ec33636665b6127a08937fd4dbb2",
+      "last_updated": "2026-04-21T02:38:57.402459",
       "source": "claude-code-repository"
     },
     "channels.md": {
@@ -298,8 +298,8 @@
     "desktop.md": {
       "original_url": "https://code.claude.com/docs/en/desktop",
       "original_md_url": "https://code.claude.com/docs/en/desktop.md",
-      "hash": "8df32eb372ba61892d5fff29c23066a39bbf61dfde5fa37364a953f60952d885",
-      "last_updated": "2026-04-16T21:42:57.395352"
+      "hash": "def817dca0512af0cb8be0a38f52c4bfe7ff43cfadc4427cd53a4861d95a2ca6",
+      "last_updated": "2026-04-21T02:38:22.914982"
     },
     "desktop-quickstart.md": {
       "original_url": "https://code.claude.com/docs/en/desktop-quickstart",
@@ -568,8 +568,8 @@
     "settings.md": {
       "original_url": "https://code.claude.com/docs/en/settings",
       "original_md_url": "https://code.claude.com/docs/en/settings.md",
-      "hash": "1d81a3c1d077ac9f79eae1780271322b2560f319c65c89718c4c60af3c58feaf",
-      "last_updated": "2026-04-18T15:38:14.608951"
+      "hash": "c7e2931ce1d35b1ba31d01ebe995514d84fc41891b4e8386925fa38486cef527",
+      "last_updated": "2026-04-21T02:38:47.098237"
     },
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
@@ -687,8 +687,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-20T21:49:13.076787",
-    "fetch_duration_seconds": 66.3993,
+    "last_fetch_completed": "2026-04-21T02:38:57.402497",
+    "fetch_duration_seconds": 61.019306,
     "total_pages_discovered": 114,
     "pages_fetched_successfully": 115,
     "pages_failed": 0,
@@ -698,7 +698,7 @@
     "total_files": 114,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-20T21:49:13.076817",
+  "last_updated": "2026-04-21T02:38:57.402518",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
