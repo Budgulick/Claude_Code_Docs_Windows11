@@ -358,8 +358,8 @@
     "env-vars.md": {
       "original_url": "https://code.claude.com/docs/en/env-vars",
       "original_md_url": "https://code.claude.com/docs/en/env-vars.md",
-      "hash": "47d960f77f817b98f780214d5d0db9d48032901f34421d0bbb5db2898d16dea5",
-      "last_updated": "2026-04-28T06:08:46.950639"
+      "hash": "4688db5d15297a69a598d70d95d0da4772ae225c47b166a467d558289b9f5654",
+      "last_updated": "2026-04-28T19:42:01.583822"
     },
     "errors.md": {
       "original_url": "https://code.claude.com/docs/en/errors",
@@ -424,8 +424,8 @@
     "hooks.md": {
       "original_url": "https://code.claude.com/docs/en/hooks",
       "original_md_url": "https://code.claude.com/docs/en/hooks.md",
-      "hash": "3ddb08ca095508f2055e9f207028880c09a1957c64bf2080b88895ebb64750ab",
-      "last_updated": "2026-04-28T06:08:52.328969"
+      "hash": "e4f760ec7734b3bd8645e31d9c13b28861b3b90de5e6a377a69bae15d2244f9b",
+      "last_updated": "2026-04-28T19:42:07.833759"
     },
     "hooks-guide.md": {
       "original_url": "https://code.claude.com/docs/en/hooks-guide",
@@ -466,8 +466,8 @@
     "llm-gateway.md": {
       "original_url": "https://code.claude.com/docs/en/llm-gateway",
       "original_md_url": "https://code.claude.com/docs/en/llm-gateway.md",
-      "hash": "c5a367f97d0575ca7ff75d70681ab3318fde97cc1341cd4428fb8c628d99ceb4",
-      "last_updated": "2026-04-14T21:53:23.883939"
+      "hash": "ca7810a9e73b5a62ad4fb79d5e07959e76e600fe23d60e985dc4132900f788e8",
+      "last_updated": "2026-04-28T19:42:11.778363"
     },
     "mcp.md": {
       "original_url": "https://code.claude.com/docs/en/mcp",
@@ -550,8 +550,8 @@
     "plugins.md": {
       "original_url": "https://code.claude.com/docs/en/plugins",
       "original_md_url": "https://code.claude.com/docs/en/plugins.md",
-      "hash": "47f40108ccea2a470fe949492b973f8d0cf9b29a9fdb51241c8735642da33461",
-      "last_updated": "2026-04-23T19:09:31.809754"
+      "hash": "102220dfe69bf18a901ceb343016ad481737d940efc6cac68fc8db6128181ddb",
+      "last_updated": "2026-04-28T19:42:19.623092"
     },
     "plugins-reference.md": {
       "original_url": "https://code.claude.com/docs/en/plugins-reference",
@@ -670,8 +670,8 @@
     "ultrareview.md": {
       "original_url": "https://code.claude.com/docs/en/ultrareview",
       "original_md_url": "https://code.claude.com/docs/en/ultrareview.md",
-      "hash": "202e57c05b76ea9323f555e17ee2c7692404da81ac20fdfe5448606cebb82228",
-      "last_updated": "2026-04-28T06:09:14.450986"
+      "hash": "89f8f1c7ee05b61943386524ea4364e060befcf5b97ae5a1295a07b5eb67495e",
+      "last_updated": "2026-04-28T19:42:31.432939"
     },
     "voice-dictation.md": {
       "original_url": "https://code.claude.com/docs/en/voice-dictation",
@@ -735,8 +735,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-28T16:52:33.373022",
-    "fetch_duration_seconds": 72.006449,
+    "last_fetch_completed": "2026-04-28T19:42:37.120987",
+    "fetch_duration_seconds": 69.511942,
     "total_pages_discovered": 122,
     "pages_fetched_successfully": 123,
     "pages_failed": 0,
@@ -746,7 +746,7 @@
     "total_files": 122,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-28T16:52:33.373049",
+  "last_updated": "2026-04-28T19:42:37.121012",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
