@@ -676,8 +676,8 @@
     "ultrareview.md": {
       "original_url": "https://code.claude.com/docs/en/ultrareview",
       "original_md_url": "https://code.claude.com/docs/en/ultrareview.md",
-      "hash": "89f8f1c7ee05b61943386524ea4364e060befcf5b97ae5a1295a07b5eb67495e",
-      "last_updated": "2026-04-28T19:42:31.432939"
+      "hash": "a67476e59cc36003d1bdfd8585c0bcfbfb00094bb80fb44e93cfefddea8165b8",
+      "last_updated": "2026-04-29T13:58:25.467198"
     },
     "voice-dictation.md": {
       "original_url": "https://code.claude.com/docs/en/voice-dictation",
@@ -741,8 +741,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-29T10:57:25.522441",
-    "fetch_duration_seconds": 66.598577,
+    "last_fetch_completed": "2026-04-29T13:58:31.204230",
+    "fetch_duration_seconds": 69.900824,
     "total_pages_discovered": 123,
     "pages_fetched_successfully": 124,
     "pages_failed": 0,
@@ -752,7 +752,7 @@
     "total_files": 123,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-29T10:57:25.522502",
+  "last_updated": "2026-04-29T13:58:31.204258",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
