@@ -358,8 +358,8 @@
     "env-vars.md": {
       "original_url": "https://code.claude.com/docs/en/env-vars",
       "original_md_url": "https://code.claude.com/docs/en/env-vars.md",
-      "hash": "482f607df090041657d34f568ebc8e8aa493e7c8651a0bdf602f8395b379fe33",
-      "last_updated": "2026-05-01T03:27:51.180924"
+      "hash": "f0777891f5512aebfceb58bf3dd28002e7733c26ba0c76adcb52adb290c9aa24",
+      "last_updated": "2026-05-01T19:12:55.344210"
     },
     "errors.md": {
       "original_url": "https://code.claude.com/docs/en/errors",
@@ -741,8 +741,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-05-01T15:58:49.488743",
-    "fetch_duration_seconds": 66.141712,
+    "last_fetch_completed": "2026-05-01T19:13:29.162583",
+    "fetch_duration_seconds": 65.8592,
     "total_pages_discovered": 123,
     "pages_fetched_successfully": 124,
     "pages_failed": 0,
@@ -752,7 +752,7 @@
     "total_files": 123,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-05-01T15:58:49.488775",
+  "last_updated": "2026-05-01T19:13:29.162613",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
