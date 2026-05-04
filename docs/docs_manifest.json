@@ -646,8 +646,8 @@
     "terminal-config.md": {
       "original_url": "https://code.claude.com/docs/en/terminal-config",
       "original_md_url": "https://code.claude.com/docs/en/terminal-config.md",
-      "hash": "dac5f9b2b45f4183314e33086030e1ad41f3592700a60e32e6a762319164e63e",
-      "last_updated": "2026-05-01T08:12:11.375331"
+      "hash": "78a8427e6fc9116c3e3784ba59aa97c762033cb667e05f5cfbce1da696e8e6ae",
+      "last_updated": "2026-05-04T16:46:34.486674"
     },
     "third-party-integrations.md": {
       "original_url": "https://code.claude.com/docs/en/third-party-integrations",
@@ -664,8 +664,8 @@
     "troubleshoot-install.md": {
       "original_url": "https://code.claude.com/docs/en/troubleshoot-install",
       "original_md_url": "https://code.claude.com/docs/en/troubleshoot-install.md",
-      "hash": "c652eaa1a5fce3b1d9a3616a4d43ad240eb740c905e00694c25c27af836278f6",
-      "last_updated": "2026-05-01T03:28:26.987037"
+      "hash": "c8963a100fc5afc0b5ae0221f1d7f5fe569eea1d80a6f68d6ffc28d9ffda9cee",
+      "last_updated": "2026-05-04T16:46:36.172014"
     },
     "troubleshooting.md": {
       "original_url": "https://code.claude.com/docs/en/troubleshooting",
@@ -747,8 +747,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-05-04T14:02:27.166886",
-    "fetch_duration_seconds": 66.602073,
+    "last_fetch_completed": "2026-05-04T16:46:43.575709",
+    "fetch_duration_seconds": 70.905862,
     "total_pages_discovered": 124,
     "pages_fetched_successfully": 125,
     "pages_failed": 0,
@@ -758,7 +758,7 @@
     "total_files": 124,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-05-04T14:02:27.166908",
+  "last_updated": "2026-05-04T16:46:43.575739",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
