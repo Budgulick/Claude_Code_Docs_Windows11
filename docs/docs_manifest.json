@@ -51,8 +51,8 @@
     "agent-sdk__mcp.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/mcp",
       "original_md_url": "https://code.claude.com/docs/en/agent-sdk/mcp.md",
-      "hash": "73b006ba485630b1b3334faa685df2747fcfacaafbc4570c0c3d24f39597589f",
-      "last_updated": "2026-04-16T19:15:18.125388"
+      "hash": "dbd5c8da0cc8733869d64400f5b7d1cc5555951a74c0781f20145ed632aa5785",
+      "last_updated": "2026-05-08T21:58:49.758930"
     },
     "agent-sdk__migration-guide.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/migration-guide",
@@ -430,8 +430,8 @@
     "hooks.md": {
       "original_url": "https://code.claude.com/docs/en/hooks",
       "original_md_url": "https://code.claude.com/docs/en/hooks.md",
-      "hash": "f1bf5e376c8cd47b0fd56e5c2132bae454d2fed0367d91f0e3748b44e3d5791e",
-      "last_updated": "2026-05-08T02:56:14.716598"
+      "hash": "3b5782cc54f484e588a37923ad07779451ca291e6fda07fe1e9b530ebba385a3",
+      "last_updated": "2026-05-08T21:59:25.079685"
     },
     "hooks-guide.md": {
       "original_url": "https://code.claude.com/docs/en/hooks-guide",
@@ -616,8 +616,8 @@
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
       "original_md_url": "https://code.claude.com/docs/en/setup.md",
-      "hash": "4da6ea2da69d8a3eb9dd00b4d06e3f666d9fb6645722a617e7e70c2d206d0233",
-      "last_updated": "2026-05-06T16:28:24.870465"
+      "hash": "9e6d4fca383caaa8fef089c13f91915b7fc2d64d7721e681aaa5dc2a5f35e6a6",
+      "last_updated": "2026-05-08T21:59:42.472471"
     },
     "skills.md": {
       "original_url": "https://code.claude.com/docs/en/skills",
@@ -747,8 +747,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-05-08T19:19:27.166248",
-    "fetch_duration_seconds": 68.095393,
+    "last_fetch_completed": "2026-05-08T21:59:54.351537",
+    "fetch_duration_seconds": 69.424789,
     "total_pages_discovered": 124,
     "pages_fetched_successfully": 125,
     "pages_failed": 0,
@@ -758,7 +758,7 @@
     "total_files": 124,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-05-08T19:19:27.166266",
+  "last_updated": "2026-05-08T21:59:54.351569",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
