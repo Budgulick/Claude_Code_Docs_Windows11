@@ -63,8 +63,8 @@
     "agent-sdk__modifying-system-prompts.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/modifying-system-prompts",
       "original_md_url": "https://code.claude.com/docs/en/agent-sdk/modifying-system-prompts.md",
-      "hash": "af41260408973313885891d13a1eb06d425aa9ae20dc44dc885c19e636849731",
-      "last_updated": "2026-05-12T19:52:47.848858"
+      "hash": "532a8726dc4fc5108784d4c2a64767e98735bc91b18655df613584dc0e9da41b",
+      "last_updated": "2026-05-13T19:54:42.237724"
     },
     "agent-sdk__observability.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/observability",
@@ -394,8 +394,8 @@
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
       "original_md_url": "https://code.claude.com/docs/en/fast-mode.md",
-      "hash": "57121a35009d271a01226207a7df0b64b19f76cf67b7817249bf707d0f84ce6e",
-      "last_updated": "2026-05-13T03:29:08.079791"
+      "hash": "46593f9d34da295ccd39275ed5d379d3e46256a42363f44b154edd1b242faf02",
+      "last_updated": "2026-05-13T19:55:12.084132"
     },
     "features-overview.md": {
       "original_url": "https://code.claude.com/docs/en/features-overview",
@@ -508,8 +508,8 @@
     "memory.md": {
       "original_url": "https://code.claude.com/docs/en/memory",
       "original_md_url": "https://code.claude.com/docs/en/memory.md",
-      "hash": "a765a6e0ed9c1b93a6b1848fcc157a7a907ec0e81610d7f77004a013156647f6",
-      "last_updated": "2026-05-12T02:58:26.823469"
+      "hash": "43cc7c19f53ff5732d68c78aab50e9276aad51a1355ad8c19f305bd3f14b3173",
+      "last_updated": "2026-05-13T19:55:22.319782"
     },
     "microsoft-foundry.md": {
       "original_url": "https://code.claude.com/docs/en/microsoft-foundry",
@@ -538,8 +538,8 @@
     "output-styles.md": {
       "original_url": "https://code.claude.com/docs/en/output-styles",
       "original_md_url": "https://code.claude.com/docs/en/output-styles.md",
-      "hash": "308c93ff7cdbd3f2160ec94c3309c834fcdc1717f10805c219c0db628b2e06b1",
-      "last_updated": "2026-05-12T19:53:30.627037"
+      "hash": "088447ec94c1474bf18982d459cbce74c68d6dcdb8042c21157b85e8d7c79419",
+      "last_updated": "2026-05-13T19:55:25.007770"
     },
     "overview.md": {
       "original_url": "https://code.claude.com/docs/en/overview",
@@ -789,8 +789,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-05-13T17:17:16.760954",
-    "fetch_duration_seconds": 73.341191,
+    "last_fetch_completed": "2026-05-13T19:55:47.304143",
+    "fetch_duration_seconds": 70.556448,
     "total_pages_discovered": 131,
     "pages_fetched_successfully": 132,
     "pages_failed": 0,
@@ -800,7 +800,7 @@
     "total_files": 131,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-05-13T17:17:16.760979",
+  "last_updated": "2026-05-13T19:55:47.304171",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
