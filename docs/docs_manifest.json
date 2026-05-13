@@ -75,8 +75,8 @@
     "agent-sdk__overview.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/overview",
       "original_md_url": "https://code.claude.com/docs/en/agent-sdk/overview.md",
-      "hash": "269c9f787e4ad7a049a7199f1669f6f241104da544aba187585a86c85118c439",
-      "last_updated": "2026-05-11T19:47:12.913213"
+      "hash": "6c4bc3e1139d3d6c18631f88e966f49f691c75414c1427c6aaaf3d8148f0fda2",
+      "last_updated": "2026-05-13T17:16:10.399060"
     },
     "agent-sdk__permissions.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/permissions",
@@ -213,8 +213,8 @@
     "authentication.md": {
       "original_url": "https://code.claude.com/docs/en/authentication",
       "original_md_url": "https://code.claude.com/docs/en/authentication.md",
-      "hash": "ed02a18f7c7045cfbaef318980108bee58129b07ad88343ab3ff7a99819934c0",
-      "last_updated": "2026-05-08T02:55:54.265778"
+      "hash": "498adf7c8b2dac75efa04070c9ce37e2b7067760fb80335faecbed814ac6334d",
+      "last_updated": "2026-05-13T17:16:23.526246"
     },
     "auto-mode-config.md": {
       "original_url": "https://code.claude.com/docs/en/auto-mode-config",
@@ -298,8 +298,8 @@
     "commands.md": {
       "original_url": "https://code.claude.com/docs/en/commands",
       "original_md_url": "https://code.claude.com/docs/en/commands.md",
-      "hash": "8fbb371fca56d452c83a4afabacbf81b619daef6c5b3db1c82cfbafdc4da8ed9",
-      "last_updated": "2026-05-13T03:28:59.456217"
+      "hash": "6d17bedc79fb189b002324cac0b0b4967989d1c508a7ecdf0271a2a4a805bad2",
+      "last_updated": "2026-05-13T17:16:31.443370"
     },
     "common-workflows.md": {
       "original_url": "https://code.claude.com/docs/en/common-workflows",
@@ -448,8 +448,8 @@
     "headless.md": {
       "original_url": "https://code.claude.com/docs/en/headless",
       "original_md_url": "https://code.claude.com/docs/en/headless.md",
-      "hash": "a5d950a53d84a83495bb2394d9a2e7af39c4eab90fc2d44db2d5fb19c6e3d390",
-      "last_updated": "2026-05-06T16:28:04.443904"
+      "hash": "334f62184bca3da333c5f080dd3a7cc5b798ad7546186c815e7124684ebf90d4",
+      "last_updated": "2026-05-13T17:16:45.313894"
     },
     "hooks.md": {
       "original_url": "https://code.claude.com/docs/en/hooks",
@@ -490,8 +490,8 @@
     "legal-and-compliance.md": {
       "original_url": "https://code.claude.com/docs/en/legal-and-compliance",
       "original_md_url": "https://code.claude.com/docs/en/legal-and-compliance.md",
-      "hash": "7dbbe118a9a7a46f6295ac93f28608d7c9325e6f54a303650a06546962afb274",
-      "last_updated": "2026-05-02T19:00:31.094809"
+      "hash": "ce1c6374458d4cc95cac62f1fc0e0c22806c54108ce387387d0030b425af8272",
+      "last_updated": "2026-05-13T17:16:49.311123"
     },
     "llm-gateway.md": {
       "original_url": "https://code.claude.com/docs/en/llm-gateway",
@@ -706,8 +706,8 @@
     "ultrareview.md": {
       "original_url": "https://code.claude.com/docs/en/ultrareview",
       "original_md_url": "https://code.claude.com/docs/en/ultrareview.md",
-      "hash": "a67476e59cc36003d1bdfd8585c0bcfbfb00094bb80fb44e93cfefddea8165b8",
-      "last_updated": "2026-04-29T13:58:25.467198"
+      "hash": "680c406390389952b40b9772c4f9a94e9db6d5d44588ae9620784cfb8d2cdcc7",
+      "last_updated": "2026-05-13T17:17:09.512436"
     },
     "voice-dictation.md": {
       "original_url": "https://code.claude.com/docs/en/voice-dictation",
@@ -789,8 +789,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-05-13T14:35:20.121977",
-    "fetch_duration_seconds": 72.351589,
+    "last_fetch_completed": "2026-05-13T17:17:16.760954",
+    "fetch_duration_seconds": 73.341191,
     "total_pages_discovered": 131,
     "pages_fetched_successfully": 132,
     "pages_failed": 0,
@@ -800,7 +800,7 @@
     "total_files": 131,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-05-13T14:35:20.122003",
+  "last_updated": "2026-05-13T17:17:16.760979",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
