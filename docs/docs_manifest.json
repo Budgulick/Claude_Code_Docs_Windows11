@@ -189,8 +189,8 @@
     "agent-view.md": {
       "original_url": "https://code.claude.com/docs/en/agent-view",
       "original_md_url": "https://code.claude.com/docs/en/agent-view.md",
-      "hash": "e7ac0ec004c98b68ffa853f336707cb9cc67b52619d036e6a0d6e1e0ce196707",
-      "last_updated": "2026-05-13T22:12:23.089675"
+      "hash": "ada6957bf29595dfe366dbcd358d48ac6dd246eb3004a64d05b2d5149c62fb4b",
+      "last_updated": "2026-05-14T08:37:24.363163"
     },
     "agents.md": {
       "original_url": "https://code.claude.com/docs/en/agents",
@@ -789,8 +789,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-05-14T03:29:39.959718",
-    "fetch_duration_seconds": 70.823095,
+    "last_fetch_completed": "2026-05-14T08:38:16.910446",
+    "fetch_duration_seconds": 69.082811,
     "total_pages_discovered": 131,
     "pages_fetched_successfully": 132,
     "pages_failed": 0,
@@ -800,7 +800,7 @@
     "total_files": 131,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-05-14T03:29:39.959739",
+  "last_updated": "2026-05-14T08:38:16.910477",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
