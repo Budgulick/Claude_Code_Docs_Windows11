@@ -400,8 +400,8 @@
     "errors.md": {
       "original_url": "https://code.claude.com/docs/en/errors",
       "original_md_url": "https://code.claude.com/docs/en/errors.md",
-      "hash": "9fcc85085f723df6d5eba6bf553eb6fb7e1f49429e1808d023b1800ca07effd6",
-      "last_updated": "2026-05-19T09:42:58.296903"
+      "hash": "d392f4aeb7a709df96db1543297231df1ca106ab1207abb6c30207d0de42bc31",
+      "last_updated": "2026-05-21T19:53:44.334342"
     },
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
@@ -646,8 +646,8 @@
     "scheduled-tasks.md": {
       "original_url": "https://code.claude.com/docs/en/scheduled-tasks",
       "original_md_url": "https://code.claude.com/docs/en/scheduled-tasks.md",
-      "hash": "0725620f2665d463ea9f38fad0fd3e068b5b72d7debc3b387744970d35689202",
-      "last_updated": "2026-05-21T03:43:30.142053"
+      "hash": "aa581e159df1905ebe40e4f52ad465654f1563f2e29f3f30aae81b33c6203abc",
+      "last_updated": "2026-05-21T19:54:06.662058"
     },
     "security.md": {
       "original_url": "https://code.claude.com/docs/en/security",
@@ -831,8 +831,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-05-21T15:28:27.855514",
-    "fetch_duration_seconds": 73.810834,
+    "last_fetch_completed": "2026-05-21T19:54:23.104384",
+    "fetch_duration_seconds": 74.950843,
     "total_pages_discovered": 138,
     "pages_fetched_successfully": 139,
     "pages_failed": 0,
@@ -842,7 +842,7 @@
     "total_files": 138,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-05-21T15:28:27.855547",
+  "last_updated": "2026-05-21T19:54:23.104412",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
