@@ -3,8 +3,8 @@
     "admin-setup.md": {
       "original_url": "https://code.claude.com/docs/en/admin-setup",
       "original_md_url": "https://code.claude.com/docs/en/admin-setup.md",
-      "hash": "190b6d3439aebf12e56c26bf2a8ea1ea2cc095d4150fb4466065e2be58d604d5",
-      "last_updated": "2026-06-05T22:14:34.684177"
+      "hash": "ae715734998dcf940dc74a09532ab32a508b24bb4614fcb43a27615800172b37",
+      "last_updated": "2026-06-08T22:26:39.044186"
     },
     "agent-sdk__agent-loop.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/agent-loop",
@@ -243,8 +243,8 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "d87ea77ca777a18f7c2ffe4079b20ef221d164568b8b0c38c6164ed56533ea63",
-      "last_updated": "2026-06-07T03:59:39.280148",
+      "hash": "6a1467af1cf311c23c531e28c1aa51c0002f5b39fef31e563ae2f3d4758e4420",
+      "last_updated": "2026-06-08T22:28:45.048028",
       "source": "claude-code-repository"
     },
     "channels.md": {
@@ -340,8 +340,8 @@
     "data-usage.md": {
       "original_url": "https://code.claude.com/docs/en/data-usage",
       "original_md_url": "https://code.claude.com/docs/en/data-usage.md",
-      "hash": "79c533f68cbda4cbd26b259655cf3f733b939614b7828339d65949529fda8630",
-      "last_updated": "2026-05-16T02:55:15.267036"
+      "hash": "ecc7662b644a3159ea841b3a09ae6c526405fb6cdd5cb4d5d1216302c47ca0cb",
+      "last_updated": "2026-06-08T22:27:32.895459"
     },
     "debug-your-config.md": {
       "original_url": "https://code.claude.com/docs/en/debug-your-config",
@@ -868,13 +868,13 @@
     "zero-data-retention.md": {
       "original_url": "https://code.claude.com/docs/en/zero-data-retention",
       "original_md_url": "https://code.claude.com/docs/en/zero-data-retention.md",
-      "hash": "b5bb43beaae018996f861687204cf76f9bf0819ea456b9b86fd75e28a01dcecf",
-      "last_updated": "2026-05-02T19:00:57.281109"
+      "hash": "f0d8e85c9395dd56366142dc0decede7c0484ea331dd906ab6babb80b8229595",
+      "last_updated": "2026-06-08T22:28:44.927377"
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-06-08T20:18:56.110762",
-    "fetch_duration_seconds": 148.818062,
+    "last_fetch_completed": "2026-06-08T22:28:45.048077",
+    "fetch_duration_seconds": 127.478051,
     "total_pages_discovered": 145,
     "pages_fetched_successfully": 146,
     "pages_failed": 0,
@@ -884,7 +884,7 @@
     "total_files": 145,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-06-08T20:18:56.110793",
+  "last_updated": "2026-06-08T22:28:45.048101",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
