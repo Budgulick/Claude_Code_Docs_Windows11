@@ -706,8 +706,8 @@
     "skills.md": {
       "original_url": "https://code.claude.com/docs/en/skills",
       "original_md_url": "https://code.claude.com/docs/en/skills.md",
-      "hash": "66eff8091edc01275e41a5c1c045073fdfbc5efc1cc0a64deaceee7d8f2d59eb",
-      "last_updated": "2026-06-05T22:16:10.082285"
+      "hash": "49e578de5a478bdb7aaf245a1c37c2d7259b6c73a16b9c94da56e8c9579b0142",
+      "last_updated": "2026-06-08T20:18:29.399740"
     },
     "slack.md": {
       "original_url": "https://code.claude.com/docs/en/slack",
@@ -873,8 +873,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-06-08T15:55:11.445111",
-    "fetch_duration_seconds": 149.740355,
+    "last_fetch_completed": "2026-06-08T20:18:56.110762",
+    "fetch_duration_seconds": 148.818062,
     "total_pages_discovered": 145,
     "pages_fetched_successfully": 146,
     "pages_failed": 0,
@@ -884,7 +884,7 @@
     "total_files": 145,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-06-08T15:55:11.445142",
+  "last_updated": "2026-06-08T20:18:56.110793",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
