@@ -1728,7 +1728,7 @@ type AgentInput = {
   description: string;
   prompt: string;
   subagent_type: string;
-  model?: "sonnet" | "opus" | "haiku";
+  model?: "sonnet" | "opus" | "haiku" | "fable";
   resume?: string;
   run_in_background?: boolean;
   max_turns?: number;
