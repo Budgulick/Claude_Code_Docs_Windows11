@@ -201,8 +201,8 @@
     "agent-view.md": {
       "original_url": "https://code.claude.com/docs/en/agent-view",
       "original_md_url": "https://code.claude.com/docs/en/agent-view.md",
-      "hash": "18c68325e1f4911f1ff545d3356461142667842b9b794b507cdf3a710925c41d",
-      "last_updated": "2026-06-09T20:07:11.122452"
+      "hash": "b447ee524206288f4979a9a6b8383736d99014106808f642c5ba545f5b242682",
+      "last_updated": "2026-06-16T04:09:33.235769"
     },
     "agents.md": {
       "original_url": "https://code.claude.com/docs/en/agents",
@@ -646,8 +646,8 @@
     "remote-control.md": {
       "original_url": "https://code.claude.com/docs/en/remote-control",
       "original_md_url": "https://code.claude.com/docs/en/remote-control.md",
-      "hash": "dd63c7b5db4b5ede6fd476df28cc9b1ee8963bbf40c75c632e343768850c5886",
-      "last_updated": "2026-06-12T22:26:13.052248"
+      "hash": "2d0946e8455582ba1310556ec29829997bdeff3ae2acab7b75afee2dd99fca54",
+      "last_updated": "2026-06-16T04:10:40.976552"
     },
     "routines.md": {
       "original_url": "https://code.claude.com/docs/en/routines",
@@ -700,8 +700,8 @@
     "settings.md": {
       "original_url": "https://code.claude.com/docs/en/settings",
       "original_md_url": "https://code.claude.com/docs/en/settings.md",
-      "hash": "ee97b7fc9a2de8685087f9ecdd3bfcebf7ac28072d09eea1cebb40ca7d8b7440",
-      "last_updated": "2026-06-13T22:05:32.345327"
+      "hash": "fee2fa5b029ff83ece8d5ad001f73a64bac768c1f684f26fb4afdee1570e6aa1",
+      "last_updated": "2026-06-16T04:10:48.511579"
     },
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
@@ -796,8 +796,8 @@
     "whats-new.md": {
       "original_url": "https://code.claude.com/docs/en/whats-new",
       "original_md_url": "https://code.claude.com/docs/en/whats-new.md",
-      "hash": "c3cc507590e5c2b992b3378dcf8cb19266b9de746db81ba092555acf1ca6403f",
-      "last_updated": "2026-05-30T19:17:47.568818"
+      "hash": "647cc64251d7047ba6b4c5b06824b57a78ec9a140cd96e3f5f874514ecf7649d",
+      "last_updated": "2026-06-16T04:11:05.208564"
     },
     "whats-new__2026-w13.md": {
       "original_url": "https://code.claude.com/docs/en/whats-new/2026-w13",
@@ -859,6 +859,18 @@
       "hash": "16e902eb2c0e5ed64aef07b0e73d7912e22864f7ae1f1ab2a6fc6ab183153cd0",
       "last_updated": "2026-06-03T20:57:30.150067"
     },
+    "whats-new__2026-w23.md": {
+      "original_url": "https://code.claude.com/docs/en/whats-new/2026-w23",
+      "original_md_url": "https://code.claude.com/docs/en/whats-new/2026-w23.md",
+      "hash": "19d89a76ccc6c01423635f01f1497d348ed0233f3579e98c8f1eaae41581e098",
+      "last_updated": "2026-06-16T04:11:15.293339"
+    },
+    "whats-new__2026-w24.md": {
+      "original_url": "https://code.claude.com/docs/en/whats-new/2026-w24",
+      "original_md_url": "https://code.claude.com/docs/en/whats-new/2026-w24.md",
+      "hash": "0298789b6f4ac9cd2a82e88062726aa94f7d3df87781a52730286ee267f852cb",
+      "last_updated": "2026-06-16T04:11:16.021542"
+    },
     "workflows.md": {
       "original_url": "https://code.claude.com/docs/en/workflows",
       "original_md_url": "https://code.claude.com/docs/en/workflows.md",
@@ -879,18 +891,18 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-06-15T23:04:29.827079",
-    "fetch_duration_seconds": 124.017136,
-    "total_pages_discovered": 146,
-    "pages_fetched_successfully": 147,
+    "last_fetch_completed": "2026-06-16T04:11:18.945390",
+    "fetch_duration_seconds": 138.832906,
+    "total_pages_discovered": 148,
+    "pages_fetched_successfully": 149,
     "pages_failed": 0,
     "failed_pages": [],
     "sitemap_url": "https://code.claude.com/docs/sitemap.xml",
     "base_url": "https://code.claude.com",
-    "total_files": 146,
+    "total_files": 148,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-06-15T23:04:29.827097",
+  "last_updated": "2026-06-16T04:11:18.945416",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
