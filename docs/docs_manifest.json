@@ -286,8 +286,8 @@
     "claude-code-on-the-web.md": {
       "original_url": "https://code.claude.com/docs/en/claude-code-on-the-web",
       "original_md_url": "https://code.claude.com/docs/en/claude-code-on-the-web.md",
-      "hash": "d3d900b05403ed47232574b8e2f345751c7d25f451b4ed1b3aa571098727cb06",
-      "last_updated": "2026-06-20T03:41:31.218726"
+      "hash": "57c47f63d8fda40f2536e69ba40556e33e76a483f67da103eb91fcd84470b60a",
+      "last_updated": "2026-06-23T20:06:28.015515"
     },
     "claude-directory.md": {
       "original_url": "https://code.claude.com/docs/en/claude-directory",
@@ -724,14 +724,14 @@
     "skills.md": {
       "original_url": "https://code.claude.com/docs/en/skills",
       "original_md_url": "https://code.claude.com/docs/en/skills.md",
-      "hash": "35a6695864964f09fdf227dcdab50f087b2f7f8d38f502e80a95bd8358470607",
-      "last_updated": "2026-06-23T03:36:59.100868"
+      "hash": "97b64b3308d23fd7c5b59f546bfb1d802f4e403ee15929d6b7ca7b5e7c3524b7",
+      "last_updated": "2026-06-23T20:07:35.491972"
     },
     "slack.md": {
       "original_url": "https://code.claude.com/docs/en/slack",
       "original_md_url": "https://code.claude.com/docs/en/slack.md",
-      "hash": "21114ade74a5f8d40399e66faa0fd6b88ee6169ab883ebfa207c9d26ed40f741",
-      "last_updated": "2026-04-14T02:37:00.054298"
+      "hash": "89423c1dce0090ba53e9e48d7aea6ece120a9fec171c568222586cc5ec0b074d",
+      "last_updated": "2026-06-23T20:07:36.339045"
     },
     "statusline.md": {
       "original_url": "https://code.claude.com/docs/en/statusline",
@@ -903,8 +903,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-06-23T17:20:38.359580",
-    "fetch_duration_seconds": 211.951273,
+    "last_fetch_completed": "2026-06-23T20:08:03.995744",
+    "fetch_duration_seconds": 149.568001,
     "total_pages_discovered": 150,
     "pages_fetched_successfully": 151,
     "pages_failed": 0,
@@ -914,7 +914,7 @@
     "total_files": 150,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-06-23T17:20:38.359615",
+  "last_updated": "2026-06-23T20:08:03.995780",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
