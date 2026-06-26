@@ -790,8 +790,8 @@
     "troubleshoot-install.md": {
       "original_url": "https://code.claude.com/docs/en/troubleshoot-install",
       "original_md_url": "https://code.claude.com/docs/en/troubleshoot-install.md",
-      "hash": "b84eb626cc45c320e721551f8543aa6f29c26f75ca737964bc6648e89e8d9f23",
-      "last_updated": "2026-06-15T23:04:10.061576"
+      "hash": "91e896304061d1160597e00438b21d91405c93f25dc6b5f5896cf35d210e3d42",
+      "last_updated": "2026-06-26T09:29:06.338063"
     },
     "troubleshooting.md": {
       "original_url": "https://code.claude.com/docs/en/troubleshooting",
@@ -927,8 +927,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-06-26T03:44:33.903868",
-    "fetch_duration_seconds": 168.894295,
+    "last_fetch_completed": "2026-06-26T09:29:27.426879",
+    "fetch_duration_seconds": 153.66532,
     "total_pages_discovered": 154,
     "pages_fetched_successfully": 155,
     "pages_failed": 0,
@@ -938,7 +938,7 @@
     "total_files": 154,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-06-26T03:44:33.903894",
+  "last_updated": "2026-06-26T09:29:27.426913",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
