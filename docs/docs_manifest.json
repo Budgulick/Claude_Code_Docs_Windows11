@@ -225,8 +225,8 @@
     "artifacts.md": {
       "original_url": "https://code.claude.com/docs/en/artifacts",
       "original_md_url": "https://code.claude.com/docs/en/artifacts.md",
-      "hash": "7936991f2f736dae71eddcbbf002aeea292b14b9e1c6e79d2d3c27f09556c1c0",
-      "last_updated": "2026-06-26T22:13:25.685508"
+      "hash": "a74bbb121d5db8022cd6fbe3739b22160f34eeee8544736ba864745807a46518",
+      "last_updated": "2026-07-02T03:36:37.771787"
     },
     "authentication.md": {
       "original_url": "https://code.claude.com/docs/en/authentication",
@@ -442,8 +442,8 @@
     "errors.md": {
       "original_url": "https://code.claude.com/docs/en/errors",
       "original_md_url": "https://code.claude.com/docs/en/errors.md",
-      "hash": "0b4768ea0d1a96ca69c720b15b950e20ceb6a3c0c21c02b8ca97b249d6acbff7",
-      "last_updated": "2026-06-30T19:59:11.376423"
+      "hash": "79de16d665d609ffd14a6a51e9132e4d7cb2f42d4e2a56142bfb2caffb83ced9",
+      "last_updated": "2026-07-02T03:37:19.508590"
     },
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
@@ -622,8 +622,8 @@
     "model-config.md": {
       "original_url": "https://code.claude.com/docs/en/model-config",
       "original_md_url": "https://code.claude.com/docs/en/model-config.md",
-      "hash": "bbb3675f6c542790d488ba687f19445ab5e6f386fd6ae336a54f89d9e9e5a09b",
-      "last_updated": "2026-06-30T19:59:41.455289"
+      "hash": "84fd8689212e0320dbd3297966746790bf75318bc14814ac780d450163a82ccf",
+      "last_updated": "2026-07-02T03:37:49.534713"
     },
     "monitoring-usage.md": {
       "original_url": "https://code.claude.com/docs/en/monitoring-usage",
@@ -981,8 +981,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-07-01T22:19:55.763235",
-    "fetch_duration_seconds": 180.469538,
+    "last_fetch_completed": "2026-07-02T03:38:50.727107",
+    "fetch_duration_seconds": 176.129356,
     "total_pages_discovered": 163,
     "pages_fetched_successfully": 164,
     "pages_failed": 0,
@@ -992,7 +992,7 @@
     "total_files": 163,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-07-01T22:19:55.763256",
+  "last_updated": "2026-07-02T03:38:50.727137",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
