@@ -874,8 +874,8 @@
     "whats-new.md": {
       "original_url": "https://code.claude.com/docs/en/whats-new",
       "original_md_url": "https://code.claude.com/docs/en/whats-new.md",
-      "hash": "8d9fd1e412d0659d644a9ade50d07555d53f733e4509ca515b7e5fe4c0734135",
-      "last_updated": "2026-07-04T02:57:23.948477"
+      "hash": "99fb12a23ce414d58a7017212b208d45a327fb4d1a486f3a706e49a95754833d",
+      "last_updated": "2026-07-11T05:42:45.172861"
     },
     "whats-new__2026-w13.md": {
       "original_url": "https://code.claude.com/docs/en/whats-new/2026-w13",
@@ -961,6 +961,18 @@
       "hash": "d03a60398668f09b9ae483686d3c57d93eac1a95f70cfe62d3b3fcb51239bf2f",
       "last_updated": "2026-06-27T03:30:58.690024"
     },
+    "whats-new__2026-w27.md": {
+      "original_url": "https://code.claude.com/docs/en/whats-new/2026-w27",
+      "original_md_url": "https://code.claude.com/docs/en/whats-new/2026-w27.md",
+      "hash": "31229875e10a45c8a2a8cc769f5ef3b3718621f7cd74aa8940caa149ae8f8fdb",
+      "last_updated": "2026-07-11T05:42:58.874743"
+    },
+    "whats-new__2026-w28.md": {
+      "original_url": "https://code.claude.com/docs/en/whats-new/2026-w28",
+      "original_md_url": "https://code.claude.com/docs/en/whats-new/2026-w28.md",
+      "hash": "6e1c2f542e6f08f0c00d58f96fd312e7b4ade1cbdaa9c51fcfbf1e8b10b22242",
+      "last_updated": "2026-07-11T05:42:59.880774"
+    },
     "workflows.md": {
       "original_url": "https://code.claude.com/docs/en/workflows",
       "original_md_url": "https://code.claude.com/docs/en/workflows.md",
@@ -981,18 +993,18 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-07-11T02:48:12.909524",
-    "fetch_duration_seconds": 608.168411,
-    "total_pages_discovered": 163,
-    "pages_fetched_successfully": 164,
+    "last_fetch_completed": "2026-07-11T05:43:02.397015",
+    "fetch_duration_seconds": 153.950202,
+    "total_pages_discovered": 165,
+    "pages_fetched_successfully": 166,
     "pages_failed": 0,
     "failed_pages": [],
     "sitemap_url": "https://code.claude.com/docs/sitemap.xml",
     "base_url": "https://code.claude.com",
-    "total_files": 163,
+    "total_files": 165,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-07-11T02:48:12.909543",
+  "last_updated": "2026-07-11T05:43:02.397047",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
