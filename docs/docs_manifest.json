@@ -586,8 +586,8 @@
     "llm-gateway-connect.md": {
       "original_url": "https://code.claude.com/docs/en/llm-gateway-connect",
       "original_md_url": "https://code.claude.com/docs/en/llm-gateway-connect.md",
-      "hash": "984e16537c508efef44fc74300179a80e56a96e34ca7aa5fab3275e72babbead",
-      "last_updated": "2026-07-14T19:21:14.022237"
+      "hash": "9390c0af5e7bbf74556d30ddf126b5cb88fd234566284242624824ba722451af",
+      "last_updated": "2026-07-15T16:24:10.096252"
     },
     "llm-gateway-protocol.md": {
       "original_url": "https://code.claude.com/docs/en/llm-gateway-protocol",
@@ -610,8 +610,8 @@
     "mcp.md": {
       "original_url": "https://code.claude.com/docs/en/mcp",
       "original_md_url": "https://code.claude.com/docs/en/mcp.md",
-      "hash": "06abe49922a56e8f87723718a5d1f5057f4420d29488b8141cc0b4c311d723d4",
-      "last_updated": "2026-07-15T02:29:07.071892"
+      "hash": "f2bc70fc28d8f7be57f69df94289a46e32e974eb91c8d5ef749b9d96ac1d9152",
+      "last_updated": "2026-07-15T16:24:12.761545"
     },
     "mcp-quickstart.md": {
       "original_url": "https://code.claude.com/docs/en/mcp-quickstart",
@@ -790,8 +790,8 @@
     "settings.md": {
       "original_url": "https://code.claude.com/docs/en/settings",
       "original_md_url": "https://code.claude.com/docs/en/settings.md",
-      "hash": "27f67ea56de1998e8297305182492a75a9d16415f39724c30f756ef4183fbf17",
-      "last_updated": "2026-07-14T19:21:56.618888"
+      "hash": "4afe847c3ecea998d32594c019c4dfdf223199d4e17ab7d187b471762446b58d",
+      "last_updated": "2026-07-15T16:24:43.338559"
     },
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
@@ -826,20 +826,20 @@
     "terminal-config.md": {
       "original_url": "https://code.claude.com/docs/en/terminal-config",
       "original_md_url": "https://code.claude.com/docs/en/terminal-config.md",
-      "hash": "072316f788e6ec6253cdb68b3f378195f7c834e2683363de8ae3b6213244dbe9",
-      "last_updated": "2026-07-14T19:22:03.930473"
+      "hash": "17df873f3bb262eb4ff76f951a742960edfc2216da81527b4ce08a57f53b1147",
+      "last_updated": "2026-07-15T16:24:49.062869"
     },
     "third-party-integrations.md": {
       "original_url": "https://code.claude.com/docs/en/third-party-integrations",
       "original_md_url": "https://code.claude.com/docs/en/third-party-integrations.md",
-      "hash": "6047f7a0b1286b5893f1c4bc7c8f0e6e1febf5316d22dd20a5832ab950342665",
-      "last_updated": "2026-07-14T02:31:41.130046"
+      "hash": "cabac7526593b42f919da10044d78171f3f52b08c5c6bd90a4faa1992d39bacd",
+      "last_updated": "2026-07-15T16:24:49.927501"
     },
     "tools-reference.md": {
       "original_url": "https://code.claude.com/docs/en/tools-reference",
       "original_md_url": "https://code.claude.com/docs/en/tools-reference.md",
-      "hash": "cd271037aa461afcd929d87de829ded638e8b9a8d15699aa69f828dc3f251852",
-      "last_updated": "2026-07-14T19:22:05.927459"
+      "hash": "e8ef12aea13eb71b971b5621429b053c9fd81b5dc225fe55b1c380c3c24f3ffe",
+      "last_updated": "2026-07-15T16:24:50.826529"
     },
     "troubleshoot-install.md": {
       "original_url": "https://code.claude.com/docs/en/troubleshoot-install",
@@ -874,8 +874,8 @@
     "vs-code.md": {
       "original_url": "https://code.claude.com/docs/en/vs-code",
       "original_md_url": "https://code.claude.com/docs/en/vs-code.md",
-      "hash": "d91cf7778dd0afb6eb2d7a13dbccf6f37bdb9a56c115c66439b6e16d034d4be7",
-      "last_updated": "2026-07-14T02:31:47.423469"
+      "hash": "e732a9dd2bc358ed409dc0a3d39b311cc67f476e3e2737ec64ed45c16c5e1772",
+      "last_updated": "2026-07-15T16:24:57.627444"
     },
     "web-quickstart.md": {
       "original_url": "https://code.claude.com/docs/en/web-quickstart",
@@ -994,8 +994,8 @@
     "worktrees.md": {
       "original_url": "https://code.claude.com/docs/en/worktrees",
       "original_md_url": "https://code.claude.com/docs/en/worktrees.md",
-      "hash": "f6b9caf13c7d664ef665f894585e9fc90f00fea89eabfc27016be6426db99e50",
-      "last_updated": "2026-07-14T19:22:39.562896"
+      "hash": "c4422cda6c4f8aa4ba7342cdc654c7e96872acedf0281cca8bd3a4495a4a0453",
+      "last_updated": "2026-07-15T16:25:19.109572"
     },
     "zero-data-retention.md": {
       "original_url": "https://code.claude.com/docs/en/zero-data-retention",
@@ -1005,8 +1005,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-07-15T13:45:39.280795",
-    "fetch_duration_seconds": 179.594644,
+    "last_fetch_completed": "2026-07-15T16:25:21.448630",
+    "fetch_duration_seconds": 250.062649,
     "total_pages_discovered": 167,
     "pages_fetched_successfully": 168,
     "pages_failed": 0,
@@ -1016,7 +1016,7 @@
     "total_files": 167,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-07-15T13:45:39.280820",
+  "last_updated": "2026-07-15T16:25:21.448655",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
