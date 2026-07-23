@@ -472,8 +472,8 @@
     "errors.md": {
       "original_url": "https://code.claude.com/docs/en/errors",
       "original_md_url": "https://code.claude.com/docs/en/errors.md",
-      "hash": "e29e21477a9e29432869212caa9e684fa2bf52074b4a32161cab6fa49283a742",
-      "last_updated": "2026-07-23T02:44:38.377391"
+      "hash": "80eace3ec6fda90bbc4b834c9dad9a56662fb906628d6d3ae656cdd909af66ee",
+      "last_updated": "2026-07-23T14:00:12.202985"
     },
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
@@ -1035,8 +1035,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-07-23T11:11:57.926748",
-    "fetch_duration_seconds": 170.427908,
+    "last_fetch_completed": "2026-07-23T14:01:53.246279",
+    "fetch_duration_seconds": 189.632134,
     "total_pages_discovered": 172,
     "pages_fetched_successfully": 173,
     "pages_failed": 0,
@@ -1046,7 +1046,7 @@
     "total_files": 172,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-07-23T11:11:57.926777",
+  "last_updated": "2026-07-23T14:01:53.246311",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
