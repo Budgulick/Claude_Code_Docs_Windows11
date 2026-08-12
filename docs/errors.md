@@ -1038,10 +1038,10 @@ Resuming with `claude --resume` or `claude --continue` reconnects to the [Remote
 **What to do:**
 
 * Run `/remote-control` to retry the connection
-* Start Claude Code without `--resume` to create a new Remote Control session
+* Start a new session with `claude --remote-control` to create a new Remote Control session
 * For other Remote Control startup messages, see [Troubleshoot Remote Control](/docs/en/remote-control#troubleshooting)
 
-You won't see this message when the server confirms the previous session no longer exists; Claude Code creates a new one in that case. Before v2.1.200, any reconnection failure created a new Remote Control session, which left extra sessions in the session list at claude.ai/code.
+When the server reports instead that the previous session no longer exists, Claude Code shows [`Remote Control could not resume the previous session under the current login`](/docs/en/remote-control#remote-control-could-not-resume-the-previous-session-under-the-current-login) rather than this message and doesn't create a replacement session. Earlier versions created a new Remote Control session instead of showing a message: before v2.1.200 on any reconnection failure, and through v2.1.226 when the server reported the session gone.
 
 <h3 id="couldnt-share-the-transcript">
   Couldn't share the transcript
@@ -1634,7 +1634,7 @@ Claude Code exits with code 1 after showing the message. Claude Code [searches t
 Common causes:
 
 * **Mistyped ID**: for a non-interactive run, the ID is the `session_id` field of the [`--output-format json` output](/docs/en/headless#get-structured-output)
-* **Deleted transcript**: Claude Code removes transcripts after the [retention period](/docs/en/sessions#where-transcripts-are-stored), 30 days by default
+* **Deleted transcript**: Claude Code removes transcripts after the [retention period](/docs/en/sessions#where-transcripts-are-stored), 30 days by default, following the [retention sweep rules](/docs/en/claude-directory#cleaned-up-automatically)
 * **Different machine**: Claude Code stores transcripts locally, so resume the session on the machine where it ran
 * **Duplicate copies**: if you copied a project directory under `~/.claude/projects` so two transcripts carry the same ID, Claude Code reports this message rather than resume one copy arbitrarily
 
