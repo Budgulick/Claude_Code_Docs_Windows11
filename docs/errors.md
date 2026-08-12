@@ -1739,16 +1739,18 @@ Agent 'code-reviewer' would be spawned with zero tools — refusing. Its tools l
 
 ### File is covered by a Read deny rule
 
-The Edit tool was called on a path matched by a [`Read` deny rule](/docs/en/permissions#read-and-edit), including creating a new file at that path. Editing rewrites content Claude has to be able to read back, so the call is refused before any file access. The rule blocks the Edit tool only: Write and NotebookEdit aren't covered by `Read` deny rules. Before v2.1.208, only an `Edit` deny rule blocked edits, and a `Read` deny rule alone didn't.
+The Edit or Write tool was called on a path matched by a [`Read` deny rule](/docs/en/permissions#read-and-edit), including creating a new file at that path. Both tools change content Claude has to be able to read back, so Claude Code refuses the call before any file access. NotebookEdit isn't covered by `Read` deny rules. Before v2.1.228, the rule blocked the Edit tool only, and before v2.1.208, only an `Edit` deny rule blocked edits.
 
 ```text theme={null}
 File is covered by a Read deny rule in your permission settings and cannot be edited.
 ```
 
+When Claude Code refuses the Write tool, the message ends `and cannot be written` instead.
+
 **What to do:**
 
-* If Claude should be able to edit the file, remove or narrow the `Read` deny rule in `/permissions` or in [settings](/docs/en/settings#permission-settings)
-* If the file must stay untouched, keep the rule and add an `Edit` deny rule for the same path so the Write and NotebookEdit tools are blocked too
+* If Claude should be able to change the file, remove or narrow the `Read` deny rule in `/permissions` or in [settings](/docs/en/settings#permission-settings)
+* If the file must stay untouched, keep the rule and add an `Edit` deny rule for the same path to block the NotebookEdit tool too
 
 ### Memory index is over its read limit
 

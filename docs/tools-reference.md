@@ -89,7 +89,7 @@ All of these accept the same rule format, `ToolName(specifier)`. The specifier d
 
 Tools not listed here, such as `ExitPlanMode` or `ShareOnboardingGuide`, accept only the bare tool name with no specifier.
 
-An `Edit(...)` allow rule also grants read access to the same path, so you don't need a matching `Read(...)` rule. A `Read(...)` deny rule also blocks the Edit tool on the same path, including creating a new file there, because editing requires reading the result back. The `Read` deny check on edits requires Claude Code v2.1.208 or later.
+An `Edit(...)` allow rule also grants read access to the same path, so you don't need a matching `Read(...)` rule. A `Read(...)` deny rule also blocks the Edit and Write tools on the same path, including creating a new file there, because both tools change content Claude has to be able to read back. The `Read` deny check requires Claude Code v2.1.208 or later on edits, and v2.1.228 or later on writes.
 
 Hook `matcher` fields use bare tool names, not the parenthesized rule format. See [matcher patterns](/docs/en/hooks#matcher-patterns) for the matching rules. For the field names each tool passes to `tool_input` in hooks, see the [PreToolUse input reference](/docs/en/hooks#pretooluse-input).
 
@@ -463,7 +463,13 @@ Set the [`CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`](/docs/en/env-vars) environm
 
 The Write tool creates a new file or overwrites an existing one with the full content provided. It doesn't append or merge.
 
-If the target path already exists, Claude must have read that file at least once in the current conversation before overwriting it. A Write to an unread existing file fails with an error. This constraint doesn't apply to new files.
+Whether Claude must read an existing file in the current conversation before overwriting it depends on the model and the file:
+
+* Claude Opus 4.6, Claude Haiku 4.5, and older models always require the read, so a Write to an unread existing file fails with an error.
+* Newer models can overwrite a file they never read this session under the same conditions as [read-before-edit](#edit-tool-behavior): reading it wouldn't need a permission prompt and the Read tool is available.
+* Jupyter notebooks, and files Claude has read only partially with a [`PARTIAL view` notice](#read-tool-behavior), require the read on every model.
+
+This constraint doesn't apply to new files. Before v2.1.228, every model required the read before overwriting an existing file.
 
 Viewing the file with Bash also satisfies this requirement under the same rules described in [Edit tool behavior](#edit-tool-behavior).
 
