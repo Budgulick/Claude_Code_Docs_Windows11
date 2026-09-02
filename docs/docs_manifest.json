@@ -267,8 +267,8 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "84dec792b53b7181d65283ccdfa31af4774abf0229189f3abf89c6c45013dc51",
-      "last_updated": "2026-09-01T23:06:02.651321",
+      "hash": "48ba89dae1363c88a042a7ffebc68012fc7a358b41ec966592bed2e12163149a",
+      "last_updated": "2026-09-02T23:02:42.708466",
       "source": "claude-code-repository"
     },
     "channels.md": {
@@ -1149,8 +1149,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-09-02T20:36:45.894849",
-    "fetch_duration_seconds": 120.645402,
+    "last_fetch_completed": "2026-09-02T23:02:42.708517",
+    "fetch_duration_seconds": 157.360966,
     "total_pages_discovered": 191,
     "pages_fetched_successfully": 192,
     "pages_failed": 0,
@@ -1160,7 +1160,7 @@
     "total_files": 191,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-09-02T20:36:45.894881",
+  "last_updated": "2026-09-02T23:02:42.708534",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
