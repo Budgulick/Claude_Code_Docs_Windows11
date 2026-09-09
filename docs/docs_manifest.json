@@ -910,8 +910,8 @@
     "settings-reference.md": {
       "original_url": "https://code.claude.com/docs/en/settings-reference",
       "original_md_url": "https://code.claude.com/docs/en/settings-reference.md",
-      "hash": "b797283d5d153661df0adf438130c09fb4734f826a99af13be7ad52c4232d023",
-      "last_updated": "2026-09-08T20:48:42.233129"
+      "hash": "44d50b1117d8ad761dd97540df184ec2f88d19d184d76ba7b378149023db19fe",
+      "last_updated": "2026-09-09T16:02:33.478079"
     },
     "setup.md": {
       "original_url": "https://code.claude.com/docs/en/setup",
@@ -1149,8 +1149,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-09-09T10:53:38.697374",
-    "fetch_duration_seconds": 197.490244,
+    "last_fetch_completed": "2026-09-09T16:03:10.905572",
+    "fetch_duration_seconds": 178.669955,
     "total_pages_discovered": 191,
     "pages_fetched_successfully": 192,
     "pages_failed": 0,
@@ -1160,7 +1160,7 @@
     "total_files": 191,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-09-09T10:53:38.697404",
+  "last_updated": "2026-09-09T16:03:10.905603",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
