@@ -63,8 +63,8 @@
     "agent-sdk__hooks.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/hooks",
       "original_md_url": "https://code.claude.com/docs/en/agent-sdk/hooks.md",
-      "hash": "34b4f9098b5a22268263627dc293c27764f356c1fad6cd4585306d2c582b4240",
-      "last_updated": "2026-09-13T20:24:04.924422"
+      "hash": "6f7ed4720e074380b4835bc79add5cd1aa0f40e0d95ae3b7afede18f4a7090a3",
+      "last_updated": "2026-09-16T03:37:02.669066"
     },
     "agent-sdk__hosting.md": {
       "original_url": "https://code.claude.com/docs/en/agent-sdk/hosting",
@@ -255,8 +255,8 @@
     "auto-mode-config.md": {
       "original_url": "https://code.claude.com/docs/en/auto-mode-config",
       "original_md_url": "https://code.claude.com/docs/en/auto-mode-config.md",
-      "hash": "33069386776e0972fbea1893dda56209954809a746088062ee2b9d6146b3b789",
-      "last_updated": "2026-09-15T23:26:03.820991"
+      "hash": "8debfa515faff4eb75597e70c8b1f745f40eef495398933a8e121b916fe53cae",
+      "last_updated": "2026-09-16T03:37:24.384781"
     },
     "best-practices.md": {
       "original_url": "https://code.claude.com/docs/en/best-practices",
@@ -1179,8 +1179,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-09-15T23:27:43.876418",
-    "fetch_duration_seconds": 128.405287,
+    "last_fetch_completed": "2026-09-16T03:39:08.343839",
+    "fetch_duration_seconds": 134.19485,
     "total_pages_discovered": 196,
     "pages_fetched_successfully": 197,
     "pages_failed": 0,
@@ -1190,7 +1190,7 @@
     "total_files": 196,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-09-15T23:27:43.876444",
+  "last_updated": "2026-09-16T03:39:08.343870",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
