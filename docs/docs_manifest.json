@@ -1048,8 +1048,8 @@
     "sessions.md": {
       "original_url": "https://code.claude.com/docs/en/sessions",
       "original_md_url": "https://code.claude.com/docs/en/sessions.md",
-      "hash": "602e49a8b301fb1ceb0843b17ea4e0899b59e9bce826fcd47596d51b1a43653e",
-      "last_updated": "2026-10-04T11:52:52.298606"
+      "hash": "550ca022a3511cc432c93ec518d967d5493ad763a76edcaf180151f89e5b173b",
+      "last_updated": "2026-10-07T00:24:20.204252"
     },
     "settings.md": {
       "original_url": "https://code.claude.com/docs/en/settings",
@@ -1323,8 +1323,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-10-06T20:01:20.814147",
-    "fetch_duration_seconds": 141.327813,
+    "last_fetch_completed": "2026-10-07T00:24:49.227432",
+    "fetch_duration_seconds": 132.996376,
     "total_pages_discovered": 220,
     "pages_fetched_successfully": 221,
     "pages_failed": 0,
@@ -1334,7 +1334,7 @@
     "total_files": 220,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-10-06T20:01:20.814174",
+  "last_updated": "2026-10-07T00:24:49.227465",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
