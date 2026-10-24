@@ -279,8 +279,8 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "53ae20cf8b53ce3c8c749348fc1d9d6ebb0edc0cd69ebdf8dfbde4f88bfc9622",
-      "last_updated": "2026-10-23T03:39:21.969681",
+      "hash": "494c6e9a8fd6144c5646229c51890259932e5d409d1e6cca3624ccac8c7b23be",
+      "last_updated": "2026-10-24T03:33:09.925176",
       "source": "claude-code-repository"
     },
     "channels.md": {
@@ -544,8 +544,8 @@
     "errors.md": {
       "original_url": "https://code.claude.com/docs/en/errors",
       "original_md_url": "https://code.claude.com/docs/en/errors.md",
-      "hash": "439ba83f5bc1173d53ea0aee85a4caa86bd1e6d603445a85bc2e2e3a6c79116b",
-      "last_updated": "2026-10-23T21:04:01.053505"
+      "hash": "bf901502940532ed4306a33fedd572ab445919fc401bef5d8ac859ce70809440",
+      "last_updated": "2026-10-24T03:31:41.452783"
     },
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
@@ -658,8 +658,8 @@
     "jetbrains.md": {
       "original_url": "https://code.claude.com/docs/en/jetbrains",
       "original_md_url": "https://code.claude.com/docs/en/jetbrains.md",
-      "hash": "f4af835e8a33b2b0010d15fe84049e4a8daed48d6c21f50912855a668d9cfb35",
-      "last_updated": "2026-10-23T21:04:14.377256"
+      "hash": "1d749d341482275601c6f24f6f2e91298285ed5d59268251931f83391be47507",
+      "last_updated": "2026-10-24T03:31:52.239660"
     },
     "keybindings.md": {
       "original_url": "https://code.claude.com/docs/en/keybindings",
@@ -754,8 +754,8 @@
     "monitoring-usage.md": {
       "original_url": "https://code.claude.com/docs/en/monitoring-usage",
       "original_md_url": "https://code.claude.com/docs/en/monitoring-usage.md",
-      "hash": "3dceb23478eb5ad0099bf68203e019679dca8b029b6296077ee14822346c0a7f",
-      "last_updated": "2026-10-23T21:04:25.443102"
+      "hash": "c50c99c7952c8a7660f0564a75de972c38a6423633aad5fff248bc20c7a44860",
+      "last_updated": "2026-10-24T03:32:02.784528"
     },
     "network-config.md": {
       "original_url": "https://code.claude.com/docs/en/network-config",
@@ -1365,8 +1365,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-10-23T21:05:37.478002",
-    "fetch_duration_seconds": 160.906551,
+    "last_fetch_completed": "2026-10-24T03:33:09.925252",
+    "fetch_duration_seconds": 141.903624,
     "total_pages_discovered": 227,
     "pages_fetched_successfully": 228,
     "pages_failed": 0,
@@ -1376,7 +1376,7 @@
     "total_files": 227,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-10-23T21:05:37.478032",
+  "last_updated": "2026-10-24T03:33:09.925278",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
