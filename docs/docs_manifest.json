@@ -694,8 +694,8 @@
     "llm-gateway-protocol.md": {
       "original_url": "https://code.claude.com/docs/en/llm-gateway-protocol",
       "original_md_url": "https://code.claude.com/docs/en/llm-gateway-protocol.md",
-      "hash": "ef8ad92ce96b6c320732ec10cef6101c44616c5fc7cb6c9395d7a56bd68a1494",
-      "last_updated": "2026-10-25T03:28:34.901445"
+      "hash": "9b7af60f210a11db4fc8939734021ab08cb0706dc0fbb99fce844f2113f0d61e",
+      "last_updated": "2026-10-25T10:51:23.166702"
     },
     "llm-gateway-rollout.md": {
       "original_url": "https://code.claude.com/docs/en/llm-gateway-rollout",
@@ -754,8 +754,8 @@
     "monitoring-usage.md": {
       "original_url": "https://code.claude.com/docs/en/monitoring-usage",
       "original_md_url": "https://code.claude.com/docs/en/monitoring-usage.md",
-      "hash": "c50c99c7952c8a7660f0564a75de972c38a6423633aad5fff248bc20c7a44860",
-      "last_updated": "2026-10-24T03:32:02.784528"
+      "hash": "724557e4ac516929ff398c4daa36420c59bbf170695681b999ba35321bc1905d",
+      "last_updated": "2026-10-25T10:51:28.764847"
     },
     "network-config.md": {
       "original_url": "https://code.claude.com/docs/en/network-config",
@@ -1365,8 +1365,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-10-25T03:29:50.500359",
-    "fetch_duration_seconds": 154.425707,
+    "last_fetch_completed": "2026-10-25T10:52:25.959837",
+    "fetch_duration_seconds": 129.787125,
     "total_pages_discovered": 227,
     "pages_fetched_successfully": 228,
     "pages_failed": 0,
@@ -1376,7 +1376,7 @@
     "total_files": 227,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-10-25T03:29:50.500389",
+  "last_updated": "2026-10-25T10:52:25.959863",
   "base_url": "https://raw.githubusercontent.com/Budgulick/Claude_Code_Docs_Windows11/main/docs/",
   "github_repository": "Budgulick/Claude_Code_Docs_Windows11",
   "github_ref": "main",
